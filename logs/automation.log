@@ -1,0 +1,2753 @@
+11/14/2025 07:30:37 PM:INFO:Test_001_Login.test_verify_page_title
+11/14/2025 07:30:37 PM:INFO:Starting test_verify_page_title
+11/14/2025 07:30:42 PM:INFO:test_verify_page_title_PASSED
+11/14/2025 07:34:30 PM:INFO:Test_001_Login.test_login
+11/14/2025 07:34:30 PM:INFO:Starting test_login
+11/14/2025 07:34:46 PM:INFO:Test_login_PASSED
+11/15/2025 04:57:10 PM:INFO:Test_001_Login.test_verify_page_title
+11/15/2025 04:57:10 PM:INFO:Starting test_verify_page_title
+11/15/2025 04:57:19 PM:INFO:test_verify_page_title_PASSED
+11/15/2025 06:11:47 PM:INFO:Test_002_Create_User
+11/15/2025 06:11:47 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:14:17 PM:INFO:Test_002_Create_User
+11/15/2025 06:14:17 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:17:27 PM:INFO:Test_002_Create_User
+11/15/2025 06:17:27 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:18:39 PM:INFO:Test_002_Create_User
+11/15/2025 06:18:39 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:22:59 PM:INFO:Test_002_Create_User
+11/15/2025 06:22:59 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:26:58 PM:INFO:Test_002_Create_User
+11/15/2025 06:26:58 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:28:08 PM:INFO:Test_002_Create_User
+11/15/2025 06:28:08 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:29:43 PM:INFO:Test_002_Create_User
+11/15/2025 06:29:43 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:32:32 PM:INFO:Test_002_Create_User
+11/15/2025 06:32:32 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:33:28 PM:INFO:Test_002_Create_User
+11/15/2025 06:33:28 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:34:46 PM:INFO:Test_002_Create_User
+11/15/2025 06:34:46 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:35:49 PM:INFO:Test_002_Create_User
+11/15/2025 06:35:49 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:36:46 PM:INFO:Test_002_Create_User
+11/15/2025 06:36:46 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:41:50 PM:INFO:Test_002_Create_User
+11/15/2025 06:41:50 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:42:22 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE275A3ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe5a1fabf15b2e4b5d7ca5288379f2b
+11/15/2025 06:42:26 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE276B0910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe5a1fabf15b2e4b5d7ca5288379f2b
+11/15/2025 06:42:30 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE275AAD70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe5a1fabf15b2e4b5d7ca5288379f2b
+11/15/2025 06:43:10 PM:INFO:Test_002_Create_User
+11/15/2025 06:43:10 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:45:05 PM:INFO:Test_002_Create_User
+11/15/2025 06:45:05 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:48:24 PM:INFO:Test_002_Create_User
+11/15/2025 06:48:24 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:49:04 PM:INFO:Test_002_Create_User
+11/15/2025 06:49:04 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:56:47 PM:INFO:Test_002_Create_User
+11/15/2025 06:56:47 PM:INFO:Starting_Test_create_new_user
+11/15/2025 06:58:19 PM:INFO:Test_002_Create_User
+11/15/2025 06:58:19 PM:INFO:Starting_Test_create_new_user
+11/15/2025 07:00:37 PM:INFO:Test_002_Create_User
+11/15/2025 07:00:37 PM:INFO:Starting_Test_create_new_user
+11/15/2025 07:03:04 PM:INFO:Test_002_Create_User
+11/15/2025 07:03:04 PM:INFO:Starting_Test_create_new_user
+11/15/2025 07:17:04 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:17:04 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:23:48 PM:INFO:Test_002_Create_User
+11/15/2025 07:23:48 PM:INFO:Starting_Test_create_new_user
+11/15/2025 07:24:24 PM:INFO:Test_001_Login.test_verify_page_title
+11/15/2025 07:24:24 PM:INFO:Starting test_verify_page_title
+11/15/2025 07:24:36 PM:INFO:test_verify_page_title_PASSED
+11/15/2025 07:24:39 PM:INFO:Test_001_Login.test_login
+11/15/2025 07:24:39 PM:INFO:Starting test_login
+11/15/2025 07:25:10 PM:INFO:Test_login_PASSED
+11/15/2025 07:25:14 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:25:14 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:25:55 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:25:55 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:50:56 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:50:56 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:52:31 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:52:31 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:53:28 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:53:28 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:54:34 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:54:34 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 07:57:22 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 07:57:22 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:03:45 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:03:45 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:05:46 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:05:46 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:09:22 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:09:22 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:12:14 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:12:14 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:14:33 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:14:33 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:15:58 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:15:58 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:19:04 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:19:04 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:20:43 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:20:43 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:23:13 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:23:13 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:23:53 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:23:53 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:25:11 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:25:11 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:26:25 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:26:25 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:43:59 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:43:59 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:44:51 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:44:51 PM:INFO:Starting_Test_login_new_user_profile
+11/15/2025 08:45:08 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014561DD6D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c35592be0042065f71eb57d18ac2de2
+11/15/2025 08:45:12 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014561DD47D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c35592be0042065f71eb57d18ac2de2
+11/15/2025 08:45:16 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014561D1B100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8c35592be0042065f71eb57d18ac2de2
+11/15/2025 08:46:11 PM:INFO:Test_001_Login.test_verify_page_title
+11/15/2025 08:46:11 PM:INFO:Starting test_verify_page_title
+11/15/2025 08:46:14 PM:INFO:test_verify_page_title_PASSED
+11/15/2025 08:46:19 PM:INFO:Test_001_Login.test_login
+11/15/2025 08:46:19 PM:INFO:Starting test_login
+11/15/2025 08:46:32 PM:INFO:Test_login_PASSED
+11/15/2025 08:47:10 PM:INFO:Test_002_Create_User
+11/15/2025 08:47:10 PM:INFO:Starting_Test_create_new_user
+11/15/2025 08:48:05 PM:INFO:Test_003_Login_New_User_Profile
+11/15/2025 08:48:05 PM:INFO:Starting_Test_login_new_user_profile
+11/17/2025 10:42:32 AM:INFO:Test_001_Login.test_verify_page_title
+11/17/2025 10:42:32 AM:INFO:Starting test_verify_page_title
+11/17/2025 10:42:36 AM:INFO:test_verify_page_title_PASSED
+11/17/2025 10:42:41 AM:INFO:Test_001_Login.test_login
+11/17/2025 10:42:41 AM:INFO:Starting test_login
+11/17/2025 10:43:02 AM:INFO:Test_login_PASSED
+11/17/2025 10:43:14 AM:INFO:Test_002_Create_User
+11/17/2025 10:43:14 AM:INFO:Starting_Test_create_new_user
+11/17/2025 10:43:46 AM:INFO:Test_003_Login_New_User_Profile
+11/17/2025 10:43:46 AM:INFO:Starting_Test_login_new_user_profile
+11/18/2025 11:01:05 AM:INFO:Test_003_Login_New_User_Profile
+11/18/2025 11:01:05 AM:INFO:Starting_Test_login_new_user_profile
+11/18/2025 11:02:00 AM:INFO:Test_002_Create_User
+11/18/2025 11:02:00 AM:INFO:Starting_Test_create_new_user
+11/18/2025 11:02:42 AM:INFO:Test_003_Login_New_User_Profile
+11/18/2025 11:02:42 AM:INFO:Starting_Test_login_new_user_profile
+11/18/2025 11:37:20 AM:INFO:Test_002_Create_User
+11/18/2025 11:37:20 AM:INFO:Starting_Test_create_new_user
+11/18/2025 11:52:50 AM:INFO:Test_002_Create_User
+11/18/2025 11:52:50 AM:INFO:Starting_Test_create_new_user
+11/18/2025 11:53:28 AM:INFO:Test_001_Login.test_verify_page_title
+11/18/2025 11:53:28 AM:INFO:Starting test_verify_page_title
+11/18/2025 11:53:33 AM:INFO:test_verify_page_title_PASSED
+11/18/2025 11:53:37 AM:INFO:Test_001_Login.test_login
+11/18/2025 11:53:37 AM:INFO:Starting test_login
+11/18/2025 11:53:53 AM:INFO:Test_login_PASSED
+11/18/2025 11:54:05 AM:INFO:Test_003_Login_New_User_Profile
+11/18/2025 11:54:05 AM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 02:15:13 PM:INFO:Test_002_Create_User
+11/19/2025 02:15:13 PM:INFO:Starting_Test_create_new_user
+11/19/2025 02:53:13 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 02:53:13 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 04:24:20 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 04:24:20 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 04:27:02 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 04:27:02 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 04:31:29 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 04:31:29 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:07:47 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:07:47 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:08:33 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:08:33 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:11:38 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:11:38 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:29:49 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:29:49 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:35:09 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:35:09 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:48:42 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:48:42 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 05:54:34 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 05:54:34 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 06:41:41 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 06:41:41 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 06:56:36 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 06:56:36 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 06:57:39 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 06:57:39 PM:INFO:Starting_Test_login_new_user_profile
+11/19/2025 06:58:21 PM:INFO:Test_003_Login_New_User_Profile
+11/19/2025 06:58:21 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 02:16:36 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 02:16:36 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 04:02:10 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 04:02:10 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 04:04:11 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 04:04:11 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:38:31 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:38:31 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:40:56 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:40:56 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:43:35 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:43:35 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:44:38 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:44:38 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:45:27 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:45:27 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:46:29 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:46:29 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 05:54:40 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 05:54:40 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 06:10:49 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 06:10:49 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 06:25:45 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 06:25:45 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 06:28:40 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 06:28:40 PM:INFO:Starting_Test_login_new_user_profile
+11/20/2025 06:51:07 PM:INFO:Test_003_Login_New_User_Profile
+11/20/2025 06:51:07 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 11:59:59 AM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 11:59:59 AM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 12:07:08 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 12:07:08 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 12:11:49 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 12:11:49 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 12:17:00 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 12:17:00 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 02:59:21 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 02:59:21 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 04:18:15 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+11/24/2025 05:40:07 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+11/24/2025 05:40:09 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:40:09 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:51:17 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:51:17 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:52:37 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:52:37 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:53:39 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:53:39 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:56:52 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:56:52 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:57:43 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:57:43 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:58:11 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C5F8742D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07/element
+11/24/2025 05:58:15 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C5F874550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07/element
+11/24/2025 05:58:19 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C5F7BB6F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07/element
+11/24/2025 05:58:28 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C62500830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07
+11/24/2025 05:58:32 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C62477130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07
+11/24/2025 05:58:36 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C62477790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d0482cc059e0bb9d42f14d9c680e7e07
+11/24/2025 05:59:10 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 05:59:10 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 05:59:54 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3AE654910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1/element
+11/24/2025 05:59:58 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3AE5A7ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1/element
+11/24/2025 06:00:02 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3AE59AFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1/element
+11/24/2025 06:00:10 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3AE55F890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1
+11/24/2025 06:00:14 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3B1277350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1
+11/24/2025 06:00:18 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F3B12779B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/945d1806ce59a52c67a435b352a7dae1
+11/24/2025 06:17:45 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 06:17:45 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 06:18:51 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 06:18:51 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 06:20:00 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 06:20:00 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 06:20:40 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 06:20:40 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 06:22:27 PM:INFO:Test_003_Login_New_User_Profile
+11/24/2025 06:22:27 PM:INFO:Starting_Test_login_new_user_profile
+11/24/2025 06:26:43 PM:INFO:Test_002_Create_User
+11/24/2025 06:26:43 PM:INFO:Starting_Test_create_new_user
+11/24/2025 06:27:02 PM:INFO:Test_001_Login.test_verify_page_title
+11/24/2025 06:27:02 PM:INFO:Starting test_verify_page_title
+11/24/2025 06:27:02 PM:INFO:Test_001_Login.test_login
+11/24/2025 06:27:02 PM:INFO:Starting test_login
+11/25/2025 11:08:11 AM:INFO:Test_002_Create_User
+11/25/2025 11:08:11 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:30:53 AM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 11:30:53 AM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 11:33:45 AM:INFO:Test_002_Create_User
+11/25/2025 11:33:45 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:33:45 AM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 11:33:45 AM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 11:38:18 AM:INFO:Test_002_Create_User
+11/25/2025 11:38:18 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:40:42 AM:INFO:Test_002_Create_User
+11/25/2025 11:40:42 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:41:51 AM:INFO:Test_002_Create_User
+11/25/2025 11:41:51 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:44:34 AM:INFO:Test_002_Create_User
+11/25/2025 11:44:34 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:46:50 AM:INFO:Test_002_Create_User
+11/25/2025 11:46:50 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:51:27 AM:INFO:Test_002_Create_User
+11/25/2025 11:51:27 AM:INFO:Starting_Test_create_new_user
+11/25/2025 11:51:45 AM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 11:51:45 AM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:08:38 PM:INFO:Test_002_Create_User
+11/25/2025 12:08:38 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:08:55 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:08:55 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:26:10 PM:INFO:Test_002_Create_User
+11/25/2025 12:26:10 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:26:28 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:26:28 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:28:30 PM:INFO:Test_002_Create_User
+11/25/2025 12:28:30 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:28:58 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:28:58 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:31:24 PM:INFO:Test_002_Create_User
+11/25/2025 12:31:24 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:31:52 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:31:52 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:32:40 PM:INFO:Test_002_Create_User
+11/25/2025 12:32:40 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:33:09 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:33:09 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:33:59 PM:INFO:Test_002_Create_User
+11/25/2025 12:33:59 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:34:07 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:34:07 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:34:11 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFAE14CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80/url
+11/25/2025 12:34:15 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFAE14550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80/url
+11/25/2025 12:34:19 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFAD5B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80/url
+11/25/2025 12:34:32 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFDA27460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80
+11/25/2025 12:34:36 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFDA279B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80
+11/25/2025 12:34:40 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023FFDA27F00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5be0e365612ad3d7651b3e7c399c1d80
+11/25/2025 12:34:49 PM:INFO:Test_002_Create_User
+11/25/2025 12:34:49 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:35:23 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:35:23 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:37:29 PM:INFO:Test_002_Create_User
+11/25/2025 12:37:29 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:37:53 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:37:53 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:40:05 PM:INFO:Test_002_Create_User
+11/25/2025 12:40:05 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:40:38 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:40:38 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:45:53 PM:INFO:Test_002_Create_User
+11/25/2025 12:45:53 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:46:17 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:46:17 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 12:48:19 PM:INFO:Test_002_Create_User
+11/25/2025 12:48:19 PM:INFO:Starting_Test_create_new_user
+11/25/2025 12:48:45 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 12:48:45 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 02:29:04 PM:INFO:Test_002_Create_User
+11/25/2025 02:29:04 PM:INFO:Starting_Test_create_new_user
+11/25/2025 02:30:04 PM:INFO:Test_002_Create_User
+11/25/2025 02:30:04 PM:INFO:Starting_Test_create_new_user
+11/25/2025 02:30:47 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 02:30:47 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 03:20:55 PM:INFO:Test_002_Create_User
+11/25/2025 03:20:55 PM:INFO:Starting_Test_create_new_user
+11/25/2025 03:21:20 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 03:21:20 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 05:13:32 PM:INFO:Test_002_Create_User
+11/25/2025 05:13:32 PM:INFO:Starting_Test_create_new_user
+11/25/2025 05:13:57 PM:INFO:Test_003_Login_New_User_Profile
+11/25/2025 05:13:57 PM:INFO:Starting_Test_login_new_user_profile
+11/25/2025 05:30:58 PM:INFO:============================================================
+11/25/2025 05:30:58 PM:INFO:TEST 1: Admin Login and Create New User
+11/25/2025 05:30:58 PM:INFO:============================================================
+11/25/2025 05:30:58 PM:INFO:Generated new user email: vivek+20251125173058@arcitech.ai
+11/25/2025 05:30:58 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/25/2025 05:31:04 PM:INFO:Starting admin login...
+11/25/2025 05:31:10 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/25/2025 05:31:12 PM:INFO:Admin logged in successfully
+11/25/2025 05:31:16 PM:INFO:Creating new user...
+11/25/2025 05:31:31 PM:INFO:New user email added: vivek+20251125173058@arcitech.ai
+11/25/2025 05:31:32 PM:INFO:Create user button clicked
+11/25/2025 05:31:39 PM:INFO:Admin logged out successfully
+11/25/2025 05:31:42 PM:INFO:============================================================
+11/25/2025 05:31:42 PM:INFO:TEST 1: PASSED - User created successfully
+11/25/2025 05:31:42 PM:INFO:============================================================
+11/25/2025 05:31:42 PM:INFO:============================================================
+11/25/2025 05:31:42 PM:INFO:TEST 2: New User Login and Profile Setup
+11/25/2025 05:31:42 PM:INFO:============================================================
+11/25/2025 05:31:42 PM:INFO:Using email from previous test: vivek+20251125173058@arcitech.ai
+11/25/2025 05:31:42 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/25/2025 05:31:46 PM:INFO:Starting new user login...
+11/25/2025 05:31:51 PM:INFO:New user email entered: vivek+20251125173058@arcitech.ai
+11/25/2025 05:31:53 PM:INFO:New user logged in successfully
+11/25/2025 05:31:57 PM:INFO:Filling user details...
+11/25/2025 05:32:00 PM:INFO:User details submitted
+11/25/2025 05:32:05 PM:INFO:Selecting dropdown options...
+11/25/2025 05:32:08 PM:INFO:Completing onboarding steps...
+11/25/2025 05:32:21 PM:INFO:Clicked proceed button 1/3
+11/25/2025 05:32:24 PM:INFO:Clicked proceed button 2/3
+11/25/2025 05:32:37 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff795e4a235
+	0x7ff795ba2630
+	0x7ff7959316dd
+	0x7ff79598a27e
+	0x7ff79598a58c
+	0x7ff7959ded77
+	0x7ff7959dbaba
+	0x7ff79597b0ed
+	0x7ff79597bf63
+	0x7ff795e75d60
+	0x7ff795e6fe8a
+	0x7ff795e91005
+	0x7ff795bbd71e
+	0x7ff795bc4e1f
+	0x7ff795bab7c4
+	0x7ff795bab97f
+	0x7ff795b918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/25/2025 05:32:38 PM:INFO:============================================================
+11/25/2025 05:32:38 PM:INFO:TEST 3: Create New Project
+11/25/2025 05:32:38 PM:INFO:============================================================
+11/25/2025 05:32:38 PM:INFO:Starting project creation...
+11/25/2025 05:32:48 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff795e4a235
+	0x7ff795ba2630
+	0x7ff7959316dd
+	0x7ff79598a27e
+	0x7ff79598a58c
+	0x7ff7959ded77
+	0x7ff7959dbaba
+	0x7ff79597b0ed
+	0x7ff79597bf63
+	0x7ff795e75d60
+	0x7ff795e6fe8a
+	0x7ff795e91005
+	0x7ff795bbd71e
+	0x7ff795bc4e1f
+	0x7ff795bab7c4
+	0x7ff795bab97f
+	0x7ff795b918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/25/2025 06:55:56 PM:INFO:============================================================
+11/25/2025 06:55:56 PM:INFO:TEST 1: Admin Login and Create New User
+11/25/2025 06:55:56 PM:INFO:============================================================
+11/25/2025 06:55:56 PM:INFO:Generated new user email: vivek+20251125185556@arcitech.ai
+11/25/2025 06:55:56 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/25/2025 06:56:03 PM:INFO:Starting admin login...
+11/25/2025 06:56:08 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/25/2025 06:56:10 PM:INFO:Admin logged in successfully
+11/25/2025 06:56:14 PM:INFO:Creating new user...
+11/25/2025 06:56:29 PM:INFO:New user email added: vivek+20251125185556@arcitech.ai
+11/25/2025 06:56:30 PM:INFO:Create user button clicked
+11/25/2025 06:56:38 PM:INFO:Admin logged out successfully
+11/25/2025 06:56:41 PM:INFO:============================================================
+11/25/2025 06:56:41 PM:INFO:TEST 1: PASSED - User created successfully
+11/25/2025 06:56:41 PM:INFO:============================================================
+11/25/2025 06:56:41 PM:INFO:============================================================
+11/25/2025 06:56:41 PM:INFO:TEST 2: New User Login and Profile Setup
+11/25/2025 06:56:41 PM:INFO:============================================================
+11/25/2025 06:56:41 PM:INFO:Using email from previous test: vivek+20251125185556@arcitech.ai
+11/25/2025 06:56:41 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/25/2025 06:56:44 PM:INFO:Starting new user login...
+11/25/2025 06:56:49 PM:INFO:New user email entered: vivek+20251125185556@arcitech.ai
+11/25/2025 06:56:52 PM:INFO:New user logged in successfully
+11/25/2025 06:56:56 PM:INFO:Filling user details...
+11/25/2025 06:56:58 PM:INFO:User details submitted
+11/25/2025 06:57:03 PM:INFO:Selecting dropdown options...
+11/25/2025 06:57:06 PM:INFO:Completing onboarding steps...
+11/25/2025 06:57:18 PM:INFO:Clicked proceed button 1/3
+11/25/2025 06:57:22 PM:INFO:Clicked proceed button 2/3
+11/25/2025 06:57:35 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff795e4a235
+	0x7ff795ba2630
+	0x7ff7959316dd
+	0x7ff79598a27e
+	0x7ff79598a58c
+	0x7ff7959ded77
+	0x7ff7959dbaba
+	0x7ff79597b0ed
+	0x7ff79597bf63
+	0x7ff795e75d60
+	0x7ff795e6fe8a
+	0x7ff795e91005
+	0x7ff795bbd71e
+	0x7ff795bc4e1f
+	0x7ff795bab7c4
+	0x7ff795bab97f
+	0x7ff795b918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/25/2025 06:57:35 PM:INFO:============================================================
+11/25/2025 06:57:35 PM:INFO:TEST 3: Create New Project
+11/25/2025 06:57:35 PM:INFO:============================================================
+11/25/2025 06:57:35 PM:INFO:Starting project creation...
+11/25/2025 06:57:45 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff795e4a235
+	0x7ff795ba2630
+	0x7ff7959316dd
+	0x7ff79598a27e
+	0x7ff79598a58c
+	0x7ff7959ded77
+	0x7ff7959dbaba
+	0x7ff79597b0ed
+	0x7ff79597bf63
+	0x7ff795e75d60
+	0x7ff795e6fe8a
+	0x7ff795e91005
+	0x7ff795bbd71e
+	0x7ff795bc4e1f
+	0x7ff795bab7c4
+	0x7ff795bab97f
+	0x7ff795b918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 02:23:44 PM:INFO:============================================================
+11/26/2025 02:23:44 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 02:23:44 PM:INFO:============================================================
+11/26/2025 02:23:44 PM:INFO:Generated new user email: vivek+20251126142344@arcitech.ai
+11/26/2025 02:23:44 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 02:23:52 PM:INFO:Starting admin login...
+11/26/2025 02:23:57 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 02:24:00 PM:INFO:Admin logged in successfully
+11/26/2025 02:24:04 PM:INFO:Creating new user...
+11/26/2025 02:24:19 PM:INFO:New user email added: vivek+20251126142344@arcitech.ai
+11/26/2025 02:24:20 PM:INFO:Create user button clicked
+11/26/2025 02:24:28 PM:INFO:Admin logged out successfully
+11/26/2025 02:24:31 PM:INFO:============================================================
+11/26/2025 02:24:31 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 02:24:31 PM:INFO:============================================================
+11/26/2025 02:24:31 PM:INFO:============================================================
+11/26/2025 02:24:31 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 02:24:31 PM:INFO:============================================================
+11/26/2025 02:24:31 PM:INFO:Using email from previous test: vivek+20251126142344@arcitech.ai
+11/26/2025 02:24:31 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 02:24:34 PM:INFO:Starting new user login...
+11/26/2025 02:24:39 PM:INFO:New user email entered: vivek+20251126142344@arcitech.ai
+11/26/2025 02:24:42 PM:INFO:New user logged in successfully
+11/26/2025 02:24:46 PM:INFO:Filling user details...
+11/26/2025 02:24:49 PM:INFO:User details submitted
+11/26/2025 02:24:54 PM:INFO:Selecting dropdown options...
+11/26/2025 02:24:56 PM:INFO:Completing onboarding steps...
+11/26/2025 02:25:09 PM:INFO:Clicked proceed button 1/3
+11/26/2025 02:25:12 PM:INFO:Clicked proceed button 2/3
+11/26/2025 02:25:25 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 02:25:26 PM:INFO:============================================================
+11/26/2025 02:25:26 PM:INFO:TEST 3: Create New Project
+11/26/2025 02:25:26 PM:INFO:============================================================
+11/26/2025 02:25:26 PM:INFO:Starting project creation...
+11/26/2025 02:25:36 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 02:26:12 PM:INFO:============================================================
+11/26/2025 02:26:12 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 02:26:12 PM:INFO:============================================================
+11/26/2025 02:26:12 PM:INFO:Generated new user email: vivek+20251126142612@arcitech.ai
+11/26/2025 02:26:12 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 02:26:21 PM:INFO:Starting admin login...
+11/26/2025 02:26:26 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 02:26:29 PM:INFO:Admin logged in successfully
+11/26/2025 02:26:33 PM:INFO:Creating new user...
+11/26/2025 02:26:48 PM:INFO:New user email added: vivek+20251126142612@arcitech.ai
+11/26/2025 02:26:49 PM:INFO:Create user button clicked
+11/26/2025 02:26:57 PM:INFO:Admin logged out successfully
+11/26/2025 02:27:00 PM:INFO:============================================================
+11/26/2025 02:27:00 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 02:27:00 PM:INFO:============================================================
+11/26/2025 02:27:00 PM:INFO:============================================================
+11/26/2025 02:27:00 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 02:27:00 PM:INFO:============================================================
+11/26/2025 02:27:00 PM:INFO:Using email from previous test: vivek+20251126142612@arcitech.ai
+11/26/2025 02:27:00 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 02:27:03 PM:INFO:Starting new user login...
+11/26/2025 02:27:08 PM:INFO:New user email entered: vivek+20251126142612@arcitech.ai
+11/26/2025 02:27:11 PM:INFO:New user logged in successfully
+11/26/2025 02:27:15 PM:INFO:Filling user details...
+11/26/2025 02:27:18 PM:INFO:User details submitted
+11/26/2025 02:27:23 PM:INFO:Selecting dropdown options...
+11/26/2025 02:27:26 PM:INFO:Completing onboarding steps...
+11/26/2025 02:27:38 PM:INFO:Clicked proceed button 1/3
+11/26/2025 02:27:41 PM:INFO:Clicked proceed button 2/3
+11/26/2025 02:27:54 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 02:27:55 PM:INFO:============================================================
+11/26/2025 02:27:55 PM:INFO:TEST 3: Create New Project
+11/26/2025 02:27:55 PM:INFO:============================================================
+11/26/2025 02:27:55 PM:INFO:Starting project creation...
+11/26/2025 02:28:05 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 03:03:16 PM:INFO:============================================================
+11/26/2025 03:03:16 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 03:03:16 PM:INFO:============================================================
+11/26/2025 03:03:16 PM:INFO:Generated new user email: vivek+20251126150316@arcitech.ai
+11/26/2025 03:03:16 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 03:03:23 PM:INFO:Starting admin login...
+11/26/2025 03:03:28 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 03:03:31 PM:INFO:Admin logged in successfully
+11/26/2025 03:03:35 PM:INFO:Creating new user...
+11/26/2025 03:03:50 PM:INFO:New user email added: vivek+20251126150316@arcitech.ai
+11/26/2025 03:03:51 PM:INFO:Create user button clicked
+11/26/2025 03:03:58 PM:INFO:Admin logged out successfully
+11/26/2025 03:04:01 PM:INFO:============================================================
+11/26/2025 03:04:01 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 03:04:01 PM:INFO:============================================================
+11/26/2025 03:04:01 PM:INFO:============================================================
+11/26/2025 03:04:01 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 03:04:01 PM:INFO:============================================================
+11/26/2025 03:04:01 PM:INFO:Using email from previous test: vivek+20251126150316@arcitech.ai
+11/26/2025 03:04:01 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 03:04:05 PM:INFO:Starting new user login...
+11/26/2025 03:04:10 PM:INFO:New user email entered: vivek+20251126150316@arcitech.ai
+11/26/2025 03:04:13 PM:INFO:New user logged in successfully
+11/26/2025 03:04:17 PM:INFO:Filling user details...
+11/26/2025 03:04:20 PM:INFO:User details submitted
+11/26/2025 03:04:25 PM:INFO:Selecting dropdown options...
+11/26/2025 03:04:27 PM:INFO:Completing onboarding steps...
+11/26/2025 03:04:40 PM:INFO:Clicked proceed button 1/3
+11/26/2025 03:04:43 PM:INFO:Clicked proceed button 2/3
+11/26/2025 03:04:56 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 03:04:57 PM:INFO:============================================================
+11/26/2025 03:04:57 PM:INFO:TEST 3: Create New Project
+11/26/2025 03:04:57 PM:INFO:============================================================
+11/26/2025 03:04:57 PM:INFO:Starting project creation...
+11/26/2025 03:05:07 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6fb14a235
+	0x7ff6faea2630
+	0x7ff6fac316dd
+	0x7ff6fac8a27e
+	0x7ff6fac8a58c
+	0x7ff6facded77
+	0x7ff6facdbaba
+	0x7ff6fac7b0ed
+	0x7ff6fac7bf63
+	0x7ff6fb175d60
+	0x7ff6fb16fe8a
+	0x7ff6fb191005
+	0x7ff6faebd71e
+	0x7ff6faec4e1f
+	0x7ff6faeab7c4
+	0x7ff6faeab97f
+	0x7ff6fae918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 04:19:29 PM:INFO:============================================================
+11/26/2025 04:19:29 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 04:19:29 PM:INFO:============================================================
+11/26/2025 04:19:29 PM:INFO:Generated new user email: vivek+20251126161929@arcitech.ai
+11/26/2025 04:19:29 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 04:19:36 PM:INFO:Starting admin login...
+11/26/2025 04:19:42 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 04:19:44 PM:INFO:Admin logged in successfully
+11/26/2025 04:19:48 PM:INFO:Creating new user...
+11/26/2025 04:20:03 PM:INFO:New user email added: vivek+20251126161929@arcitech.ai
+11/26/2025 04:20:04 PM:INFO:Create user button clicked
+11/26/2025 04:20:11 PM:INFO:Admin logged out successfully
+11/26/2025 04:20:14 PM:INFO:============================================================
+11/26/2025 04:20:14 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 04:20:14 PM:INFO:============================================================
+11/26/2025 04:20:14 PM:INFO:============================================================
+11/26/2025 04:20:14 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 04:20:14 PM:INFO:============================================================
+11/26/2025 04:20:14 PM:INFO:Using email from previous test: vivek+20251126161929@arcitech.ai
+11/26/2025 04:20:14 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 04:20:17 PM:INFO:Starting new user login...
+11/26/2025 04:20:23 PM:INFO:New user email entered: vivek+20251126161929@arcitech.ai
+11/26/2025 04:20:25 PM:INFO:New user logged in successfully
+11/26/2025 04:20:29 PM:INFO:Filling user details...
+11/26/2025 04:20:32 PM:INFO:User details submitted
+11/26/2025 04:20:37 PM:INFO:Selecting dropdown options...
+11/26/2025 04:20:39 PM:INFO:Completing onboarding steps...
+11/26/2025 04:20:52 PM:INFO:Clicked proceed button 1/3
+11/26/2025 04:20:55 PM:INFO:Clicked proceed button 2/3
+11/26/2025 04:21:08 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65850a235
+	0x7ff658262630
+	0x7ff657ff16dd
+	0x7ff65804a27e
+	0x7ff65804a58c
+	0x7ff65809ed77
+	0x7ff65809baba
+	0x7ff65803b0ed
+	0x7ff65803bf63
+	0x7ff658535d60
+	0x7ff65852fe8a
+	0x7ff658551005
+	0x7ff65827d71e
+	0x7ff658284e1f
+	0x7ff65826b7c4
+	0x7ff65826b97f
+	0x7ff6582518e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 04:21:09 PM:INFO:============================================================
+11/26/2025 04:21:09 PM:INFO:TEST 3: Create New Project
+11/26/2025 04:21:09 PM:INFO:============================================================
+11/26/2025 04:21:09 PM:INFO:Starting project creation...
+11/26/2025 04:21:19 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65850a235
+	0x7ff658262630
+	0x7ff657ff16dd
+	0x7ff65804a27e
+	0x7ff65804a58c
+	0x7ff65809ed77
+	0x7ff65809baba
+	0x7ff65803b0ed
+	0x7ff65803bf63
+	0x7ff658535d60
+	0x7ff65852fe8a
+	0x7ff658551005
+	0x7ff65827d71e
+	0x7ff658284e1f
+	0x7ff65826b7c4
+	0x7ff65826b97f
+	0x7ff6582518e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 06:00:21 PM:INFO:============================================================
+11/26/2025 06:00:21 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 06:00:21 PM:INFO:============================================================
+11/26/2025 06:00:21 PM:INFO:Generated new user email: vivek+20251126180021@arcitech.ai
+11/26/2025 06:00:21 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 06:00:28 PM:INFO:Starting admin login...
+11/26/2025 06:00:33 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 06:00:35 PM:INFO:Admin logged in successfully
+11/26/2025 06:00:39 PM:INFO:Creating new user...
+11/26/2025 06:00:55 PM:INFO:New user email added: vivek+20251126180021@arcitech.ai
+11/26/2025 06:00:56 PM:INFO:Create user button clicked
+11/26/2025 06:01:04 PM:INFO:Admin logged out successfully
+11/26/2025 06:01:07 PM:INFO:============================================================
+11/26/2025 06:01:07 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 06:01:07 PM:INFO:============================================================
+11/26/2025 06:01:07 PM:INFO:============================================================
+11/26/2025 06:01:07 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 06:01:07 PM:INFO:============================================================
+11/26/2025 06:01:07 PM:INFO:Using email from previous test: vivek+20251126180021@arcitech.ai
+11/26/2025 06:01:07 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 06:01:10 PM:INFO:Starting new user login...
+11/26/2025 06:01:15 PM:INFO:New user email entered: vivek+20251126180021@arcitech.ai
+11/26/2025 06:01:18 PM:INFO:New user logged in successfully
+11/26/2025 06:01:22 PM:INFO:Filling user details...
+11/26/2025 06:01:24 PM:INFO:User details submitted
+11/26/2025 06:01:29 PM:INFO:Selecting dropdown options...
+11/26/2025 06:01:32 PM:INFO:Completing onboarding steps...
+11/26/2025 06:01:45 PM:INFO:Clicked proceed button 1/3
+11/26/2025 06:01:48 PM:INFO:Clicked proceed button 2/3
+11/26/2025 06:02:01 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff771c1a235
+	0x7ff771972630
+	0x7ff7717016dd
+	0x7ff77175a27e
+	0x7ff77175a58c
+	0x7ff7717aed77
+	0x7ff7717ababa
+	0x7ff77174b0ed
+	0x7ff77174bf63
+	0x7ff771c45d60
+	0x7ff771c3fe8a
+	0x7ff771c61005
+	0x7ff77198d71e
+	0x7ff771994e1f
+	0x7ff77197b7c4
+	0x7ff77197b97f
+	0x7ff7719618e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 06:02:02 PM:INFO:============================================================
+11/26/2025 06:02:02 PM:INFO:TEST 3: Create New Project
+11/26/2025 06:02:02 PM:INFO:============================================================
+11/26/2025 06:02:02 PM:INFO:Starting project creation...
+11/26/2025 06:02:12 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff771c1a235
+	0x7ff771972630
+	0x7ff7717016dd
+	0x7ff77175a27e
+	0x7ff77175a58c
+	0x7ff7717aed77
+	0x7ff7717ababa
+	0x7ff77174b0ed
+	0x7ff77174bf63
+	0x7ff771c45d60
+	0x7ff771c3fe8a
+	0x7ff771c61005
+	0x7ff77198d71e
+	0x7ff771994e1f
+	0x7ff77197b7c4
+	0x7ff77197b97f
+	0x7ff7719618e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 06:04:19 PM:INFO:============================================================
+11/26/2025 06:04:19 PM:INFO:TEST 1: Admin Login and Create New User
+11/26/2025 06:04:19 PM:INFO:============================================================
+11/26/2025 06:04:19 PM:INFO:Generated new user email: vivek+20251126180419@arcitech.ai
+11/26/2025 06:04:19 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 06:04:27 PM:INFO:Starting admin login...
+11/26/2025 06:04:32 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/26/2025 06:04:35 PM:INFO:Admin logged in successfully
+11/26/2025 06:04:39 PM:INFO:Creating new user...
+11/26/2025 06:04:54 PM:INFO:New user email added: vivek+20251126180419@arcitech.ai
+11/26/2025 06:04:55 PM:INFO:Create user button clicked
+11/26/2025 06:05:03 PM:INFO:Admin logged out successfully
+11/26/2025 06:05:06 PM:INFO:============================================================
+11/26/2025 06:05:06 PM:INFO:TEST 1: PASSED - User created successfully
+11/26/2025 06:05:06 PM:INFO:============================================================
+11/26/2025 06:05:06 PM:INFO:============================================================
+11/26/2025 06:05:06 PM:INFO:TEST 2: New User Login and Profile Setup
+11/26/2025 06:05:06 PM:INFO:============================================================
+11/26/2025 06:05:06 PM:INFO:Using email from previous test: vivek+20251126180419@arcitech.ai
+11/26/2025 06:05:06 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/26/2025 06:05:09 PM:INFO:Starting new user login...
+11/26/2025 06:05:14 PM:INFO:New user email entered: vivek+20251126180419@arcitech.ai
+11/26/2025 06:05:16 PM:INFO:New user logged in successfully
+11/26/2025 06:05:20 PM:INFO:Filling user details...
+11/26/2025 06:05:23 PM:INFO:User details submitted
+11/26/2025 06:05:28 PM:INFO:Selecting dropdown options...
+11/26/2025 06:05:31 PM:INFO:Completing onboarding steps...
+11/26/2025 06:05:44 PM:INFO:Clicked proceed button 1/3
+11/26/2025 06:05:47 PM:INFO:Clicked proceed button 2/3
+11/26/2025 06:06:00 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff771c1a235
+	0x7ff771972630
+	0x7ff7717016dd
+	0x7ff77175a27e
+	0x7ff77175a58c
+	0x7ff7717aed77
+	0x7ff7717ababa
+	0x7ff77174b0ed
+	0x7ff77174bf63
+	0x7ff771c45d60
+	0x7ff771c3fe8a
+	0x7ff771c61005
+	0x7ff77198d71e
+	0x7ff771994e1f
+	0x7ff77197b7c4
+	0x7ff77197b97f
+	0x7ff7719618e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 06:06:00 PM:INFO:============================================================
+11/26/2025 06:06:00 PM:INFO:TEST 3: Create New Project
+11/26/2025 06:06:00 PM:INFO:============================================================
+11/26/2025 06:06:00 PM:INFO:Starting project creation...
+11/26/2025 06:06:10 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff771c1a235
+	0x7ff771972630
+	0x7ff7717016dd
+	0x7ff77175a27e
+	0x7ff77175a58c
+	0x7ff7717aed77
+	0x7ff7717ababa
+	0x7ff77174b0ed
+	0x7ff77174bf63
+	0x7ff771c45d60
+	0x7ff771c3fe8a
+	0x7ff771c61005
+	0x7ff77198d71e
+	0x7ff771994e1f
+	0x7ff77197b7c4
+	0x7ff77197b97f
+	0x7ff7719618e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/26/2025 06:18:00 PM:INFO:============================================================
+11/26/2025 06:18:00 PM:INFO:TEST 3: Create New Project
+11/26/2025 06:18:00 PM:INFO:============================================================
+11/26/2025 06:18:00 PM:INFO:Starting project creation...
+11/26/2025 06:18:10 PM:ERROR:TEST 3 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff771c1a235
+	0x7ff771972630
+	0x7ff7717016dd
+	0x7ff77175a27e
+	0x7ff77175a58c
+	0x7ff7717aed77
+	0x7ff7717ababa
+	0x7ff77174b0ed
+	0x7ff77174bf63
+	0x7ff771c45d60
+	0x7ff771c3fe8a
+	0x7ff771c61005
+	0x7ff77198d71e
+	0x7ff771994e1f
+	0x7ff77197b7c4
+	0x7ff77197b97f
+	0x7ff7719618e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/27/2025 12:00:24 PM:INFO:============================================================
+11/27/2025 12:00:24 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 12:00:24 PM:INFO:============================================================
+11/27/2025 12:00:24 PM:INFO:Generated new user email: vivek+20251127120024@arcitech.ai
+11/27/2025 12:00:24 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 12:00:37 PM:INFO:Starting admin login...
+11/27/2025 12:00:42 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 12:00:45 PM:INFO:Admin logged in successfully
+11/27/2025 12:00:49 PM:INFO:Creating new user...
+11/27/2025 12:01:04 PM:INFO:New user email added: vivek+20251127120024@arcitech.ai
+11/27/2025 12:01:05 PM:INFO:Create user button clicked
+11/27/2025 12:01:13 PM:INFO:Admin logged out successfully
+11/27/2025 12:01:16 PM:INFO:============================================================
+11/27/2025 12:01:16 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 12:01:16 PM:INFO:============================================================
+11/27/2025 12:01:16 PM:INFO:============================================================
+11/27/2025 12:01:16 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 12:01:16 PM:INFO:============================================================
+11/27/2025 12:01:16 PM:INFO:Using email from previous test: vivek+20251127120024@arcitech.ai
+11/27/2025 12:01:16 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 12:01:19 PM:INFO:Starting new user login...
+11/27/2025 12:01:24 PM:INFO:New user email entered: vivek+20251127120024@arcitech.ai
+11/27/2025 12:01:26 PM:INFO:New user logged in successfully
+11/27/2025 12:01:30 PM:INFO:Filling user details...
+11/27/2025 12:01:33 PM:INFO:User details submitted
+11/27/2025 12:01:38 PM:INFO:Selecting dropdown options...
+11/27/2025 12:01:41 PM:INFO:Completing onboarding steps...
+11/27/2025 12:01:53 PM:INFO:Clicked proceed button 1/3
+11/27/2025 12:01:56 PM:INFO:Clicked proceed button 2/3
+11/27/2025 12:02:09 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7656aa235
+	0x7ff765402630
+	0x7ff7651916dd
+	0x7ff7651ea27e
+	0x7ff7651ea58c
+	0x7ff76523ed77
+	0x7ff76523baba
+	0x7ff7651db0ed
+	0x7ff7651dbf63
+	0x7ff7656d5d60
+	0x7ff7656cfe8a
+	0x7ff7656f1005
+	0x7ff76541d71e
+	0x7ff765424e1f
+	0x7ff76540b7c4
+	0x7ff76540b97f
+	0x7ff7653f18e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/27/2025 12:02:10 PM:INFO:
+======================================================================
+11/27/2025 12:02:10 PM:INFO:TEST 3: ADMIN CREATES PROJECT (FULL FLOW)
+11/27/2025 12:02:10 PM:INFO:======================================================================
+11/27/2025 12:02:10 PM:INFO:Opening: https://qat.aufgang.ai/auth
+11/27/2025 12:02:13 PM:INFO:Admin logging in...
+11/27/2025 12:02:23 PM:ERROR:\u274c TEST 3 FAILED: Message: 
+
+11/27/2025 02:36:44 PM:INFO:============================================================
+11/27/2025 02:36:44 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 02:36:44 PM:INFO:============================================================
+11/27/2025 02:36:44 PM:INFO:Generated new user email: vivek+20251127143644@arcitech.ai
+11/27/2025 02:36:44 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:36:51 PM:INFO:Starting admin login...
+11/27/2025 02:36:56 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 02:37:01 PM:INFO:Admin logged in successfully
+11/27/2025 02:37:05 PM:INFO:Creating new user...
+11/27/2025 02:37:30 PM:INFO:New user email added: vivek+20251127143644@arcitech.ai
+11/27/2025 02:37:31 PM:INFO:Create user button clicked
+11/27/2025 02:37:39 PM:INFO:Admin logged out successfully
+11/27/2025 02:37:42 PM:INFO:============================================================
+11/27/2025 02:37:42 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 02:37:42 PM:INFO:============================================================
+11/27/2025 02:37:42 PM:INFO:============================================================
+11/27/2025 02:37:42 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 02:37:42 PM:INFO:============================================================
+11/27/2025 02:37:42 PM:INFO:Using email from previous test: vivek+20251127143644@arcitech.ai
+11/27/2025 02:37:42 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:37:45 PM:INFO:Starting new user login...
+11/27/2025 02:37:51 PM:INFO:New user email entered: vivek+20251127143644@arcitech.ai
+11/27/2025 02:37:56 PM:INFO:New user logged in successfully
+11/27/2025 02:38:00 PM:INFO:Filling user details...
+11/27/2025 02:38:03 PM:INFO:User details submitted
+11/27/2025 02:38:08 PM:INFO:Selecting dropdown options...
+11/27/2025 02:38:11 PM:INFO:Completing onboarding steps...
+11/27/2025 02:38:23 PM:INFO:Clicked proceed button 1/3
+11/27/2025 02:38:27 PM:INFO:Clicked proceed button 2/3
+11/27/2025 02:38:40 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff77984a235
+	0x7ff7795a2630
+	0x7ff7793316dd
+	0x7ff77938a27e
+	0x7ff77938a58c
+	0x7ff7793ded77
+	0x7ff7793dbaba
+	0x7ff77937b0ed
+	0x7ff77937bf63
+	0x7ff779875d60
+	0x7ff77986fe8a
+	0x7ff779891005
+	0x7ff7795bd71e
+	0x7ff7795c4e1f
+	0x7ff7795ab7c4
+	0x7ff7795ab97f
+	0x7ff7795918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/27/2025 02:38:40 PM:INFO:
+======================================================================
+11/27/2025 02:38:40 PM:INFO:TEST 3: ADMIN CREATES PROJECT (FULL FLOW)
+11/27/2025 02:38:40 PM:INFO:======================================================================
+11/27/2025 02:38:40 PM:INFO:Opening: https://qat.aufgang.ai/auth
+11/27/2025 02:38:43 PM:INFO:Admin logging in...
+11/27/2025 02:38:54 PM:ERROR:\u274c TEST 3 FAILED: Message: 
+
+11/27/2025 02:44:30 PM:INFO:============================================================
+11/27/2025 02:44:30 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 02:44:30 PM:INFO:============================================================
+11/27/2025 02:44:30 PM:INFO:Generated new user email: vivek+20251127144430@arcitech.ai
+11/27/2025 02:44:30 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:44:37 PM:INFO:Starting admin login...
+11/27/2025 02:44:42 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 02:44:48 PM:INFO:Admin logged in successfully
+11/27/2025 02:44:52 PM:INFO:Creating new user...
+11/27/2025 02:45:17 PM:INFO:New user email added: vivek+20251127144430@arcitech.ai
+11/27/2025 02:45:18 PM:INFO:Create user button clicked
+11/27/2025 02:45:25 PM:INFO:Admin logged out successfully
+11/27/2025 02:45:28 PM:INFO:============================================================
+11/27/2025 02:45:28 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 02:45:28 PM:INFO:============================================================
+11/27/2025 02:45:28 PM:INFO:============================================================
+11/27/2025 02:45:28 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 02:45:28 PM:INFO:============================================================
+11/27/2025 02:45:28 PM:INFO:Using email from previous test: vivek+20251127144430@arcitech.ai
+11/27/2025 02:45:28 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:45:31 PM:INFO:Starting new user login...
+11/27/2025 02:45:37 PM:INFO:New user email entered: vivek+20251127144430@arcitech.ai
+11/27/2025 02:45:42 PM:INFO:New user logged in successfully
+11/27/2025 02:45:46 PM:INFO:Filling user details...
+11/27/2025 02:45:49 PM:INFO:User details submitted
+11/27/2025 02:45:54 PM:INFO:Selecting dropdown options...
+11/27/2025 02:45:57 PM:INFO:Completing onboarding steps...
+11/27/2025 02:46:10 PM:INFO:Clicked proceed button 1/3
+11/27/2025 02:46:13 PM:INFO:Clicked proceed button 2/3
+11/27/2025 02:46:26 PM:ERROR:TEST 2 FAILED: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff77984a235
+	0x7ff7795a2630
+	0x7ff7793316dd
+	0x7ff77938a27e
+	0x7ff77938a58c
+	0x7ff7793ded77
+	0x7ff7793dbaba
+	0x7ff77937b0ed
+	0x7ff77937bf63
+	0x7ff779875d60
+	0x7ff77986fe8a
+	0x7ff779891005
+	0x7ff7795bd71e
+	0x7ff7795c4e1f
+	0x7ff7795ab7c4
+	0x7ff7795ab97f
+	0x7ff7795918e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+11/27/2025 02:47:25 PM:INFO:============================================================
+11/27/2025 02:47:25 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 02:47:25 PM:INFO:============================================================
+11/27/2025 02:47:25 PM:INFO:Generated new user email: vivek+20251127144725@arcitech.ai
+11/27/2025 02:47:25 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:47:37 PM:INFO:Starting admin login...
+11/27/2025 02:47:43 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 02:47:48 PM:INFO:Admin logged in successfully
+11/27/2025 02:47:52 PM:INFO:Creating new user...
+11/27/2025 02:48:17 PM:INFO:New user email added: vivek+20251127144725@arcitech.ai
+11/27/2025 02:48:18 PM:INFO:Create user button clicked
+11/27/2025 02:48:26 PM:INFO:============================================================
+11/27/2025 02:48:26 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 02:48:26 PM:INFO:============================================================
+11/27/2025 02:48:26 PM:INFO:============================================================
+11/27/2025 02:48:26 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 02:48:26 PM:INFO:============================================================
+11/27/2025 02:48:26 PM:INFO:Using email from previous test: vivek+20251127144725@arcitech.ai
+11/27/2025 02:48:26 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:48:29 PM:INFO:Starting new user login...
+11/27/2025 02:48:39 PM:ERROR:TEST 2 FAILED: Message: 
+
+11/27/2025 02:48:51 PM:INFO:============================================================
+11/27/2025 02:48:51 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 02:48:51 PM:INFO:============================================================
+11/27/2025 02:48:51 PM:INFO:Generated new user email: vivek+20251127144851@arcitech.ai
+11/27/2025 02:48:51 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:49:04 PM:INFO:Starting admin login...
+11/27/2025 02:49:09 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 02:49:15 PM:INFO:Admin logged in successfully
+11/27/2025 02:49:19 PM:INFO:Creating new user...
+11/27/2025 02:49:44 PM:INFO:New user email added: vivek+20251127144851@arcitech.ai
+11/27/2025 02:49:45 PM:INFO:Create user button clicked
+11/27/2025 02:49:53 PM:INFO:============================================================
+11/27/2025 02:49:53 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 02:49:53 PM:INFO:============================================================
+11/27/2025 02:49:53 PM:INFO:============================================================
+11/27/2025 02:49:53 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 02:49:53 PM:INFO:============================================================
+11/27/2025 02:49:53 PM:INFO:Using email from previous test: vivek+20251127144851@arcitech.ai
+11/27/2025 02:49:53 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 02:49:56 PM:INFO:Starting new user login...
+11/27/2025 02:50:06 PM:ERROR:TEST 2 FAILED: Message: 
+
+11/27/2025 03:22:47 PM:INFO:============================================================
+11/27/2025 03:22:47 PM:INFO:TEST 1: Admin Login and Create New User
+11/27/2025 03:22:47 PM:INFO:============================================================
+11/27/2025 03:22:47 PM:INFO:Generated new user email: vivek+20251127152247@arcitech.ai
+11/27/2025 03:22:47 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 03:22:58 PM:INFO:Starting admin login...
+11/27/2025 03:23:03 PM:INFO:Admin email entered: Front.end@metadevelopers.in
+11/27/2025 03:23:08 PM:INFO:Admin logged in successfully
+11/27/2025 03:23:12 PM:INFO:Creating new user...
+11/27/2025 03:23:37 PM:INFO:New user email added: vivek+20251127152247@arcitech.ai
+11/27/2025 03:23:38 PM:INFO:Create user button clicked
+11/27/2025 03:23:46 PM:INFO:============================================================
+11/27/2025 03:23:46 PM:INFO:TEST 1: PASSED - User created successfully
+11/27/2025 03:23:46 PM:INFO:============================================================
+11/27/2025 03:23:46 PM:INFO:============================================================
+11/27/2025 03:23:46 PM:INFO:TEST 2: New User Login and Profile Setup
+11/27/2025 03:23:46 PM:INFO:============================================================
+11/27/2025 03:23:46 PM:INFO:Using email from previous test: vivek+20251127152247@arcitech.ai
+11/27/2025 03:23:46 PM:INFO:Navigating to: https://qat.aufgang.ai/auth
+11/27/2025 03:23:49 PM:INFO:Starting new user login...
+11/27/2025 03:24:00 PM:ERROR:TEST 2 FAILED: Message: 
+
+11/27/2025 03:33:05 PM:INFO:Test_002_Create_User
+11/27/2025 03:33:05 PM:INFO:Starting_Test_create_new_user
+11/27/2025 03:33:35 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 03:33:35 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 03:34:37 PM:INFO:Test_002_Create_User
+11/27/2025 03:34:37 PM:INFO:Starting_Test_create_new_user
+11/27/2025 03:35:33 PM:INFO:Test_002_Create_User
+11/27/2025 03:35:33 PM:INFO:Starting_Test_create_new_user
+11/27/2025 03:35:56 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 03:35:56 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 03:56:11 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 03:56:11 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 03:59:36 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 03:59:36 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 04:00:02 PM:INFO:Test_002_Create_User
+11/27/2025 04:00:02 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:15:16 PM:INFO:Test_002_Create_User
+11/27/2025 05:15:16 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:15:44 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 05:15:44 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 05:17:39 PM:INFO:Test_002_Create_User
+11/27/2025 05:17:39 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:19:07 PM:INFO:Test_002_Create_User
+11/27/2025 05:19:07 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:19:57 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 05:19:57 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 05:22:18 PM:INFO:Test_002_Create_User
+11/27/2025 05:22:18 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:22:58 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 05:22:58 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 05:27:30 PM:INFO:Test_002_Create_User
+11/27/2025 05:27:30 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:28:08 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 05:28:08 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 05:28:34 PM:INFO:Test_002_Create_User
+11/27/2025 05:28:34 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:29:13 PM:INFO:Test_003_Login_New_User_Profile
+11/27/2025 05:29:13 PM:INFO:Starting_Test_login_new_user_profile
+11/27/2025 05:37:23 PM:INFO:Test_002_Create_User
+11/27/2025 05:37:23 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:45:44 PM:INFO:Test_002_Create_User
+11/27/2025 05:45:44 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:48:43 PM:INFO:Test_002_Create_User
+11/27/2025 05:48:43 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:49:24 PM:INFO:Test_002_Create_User
+11/27/2025 05:49:24 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:52:41 PM:INFO:Test_002_Create_User
+11/27/2025 05:52:41 PM:INFO:Starting_Test_create_new_user
+11/27/2025 05:54:26 PM:INFO:Test_002_Create_User
+11/27/2025 05:54:26 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:09:07 PM:INFO:Test_002_Create_User
+11/27/2025 06:09:07 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:10:45 PM:INFO:Test_002_Create_User
+11/27/2025 06:10:45 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:11:34 PM:INFO:Test_002_Create_User
+11/27/2025 06:11:34 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:20:49 PM:INFO:Test_002_Create_User
+11/27/2025 06:20:49 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:22:49 PM:INFO:Test_002_Create_User
+11/27/2025 06:22:49 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:30:14 PM:INFO:Test_002_Create_User
+11/27/2025 06:30:14 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:32:46 PM:INFO:Test_002_Create_User
+11/27/2025 06:32:46 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:34:48 PM:INFO:Test_002_Create_User
+11/27/2025 06:34:48 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:41:43 PM:INFO:Test_002_Create_User
+11/27/2025 06:41:43 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:43:15 PM:INFO:Test_002_Create_User
+11/27/2025 06:43:15 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:44:33 PM:INFO:Test_002_Create_User
+11/27/2025 06:44:33 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:45:43 PM:INFO:Test_002_Create_User
+11/27/2025 06:45:43 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:47:46 PM:INFO:Test_002_Create_User
+11/27/2025 06:47:46 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:49:03 PM:INFO:Test_002_Create_User
+11/27/2025 06:49:03 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:53:01 PM:INFO:Test_002_Create_User
+11/27/2025 06:53:01 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:54:04 PM:INFO:Test_002_Create_User
+11/27/2025 06:54:04 PM:INFO:Starting_Test_create_new_user
+11/27/2025 06:55:52 PM:INFO:Test_002_Create_User
+11/27/2025 06:55:52 PM:INFO:Starting_Test_create_new_user
+11/28/2025 10:55:59 AM:INFO:Test_002_Create_User
+11/28/2025 10:55:59 AM:INFO:Starting_Test_create_new_user
+11/28/2025 10:57:29 AM:INFO:Test_002_Create_User
+11/28/2025 10:57:29 AM:INFO:Starting_Test_create_new_user
+11/28/2025 10:58:38 AM:INFO:Test_002_Create_User
+11/28/2025 10:58:38 AM:INFO:Starting_Test_create_new_user
+11/28/2025 11:04:21 AM:INFO:Test_002_Create_User
+11/28/2025 11:04:21 AM:INFO:Starting_Test_create_new_user
+11/28/2025 11:05:56 AM:INFO:Test_002_Create_User
+11/28/2025 11:05:56 AM:INFO:Starting_Test_create_new_user
+11/28/2025 11:22:07 AM:INFO:Test_002_Create_User
+11/28/2025 11:22:07 AM:INFO:Starting_Test_create_new_user
+11/28/2025 11:31:30 AM:INFO:Test_002_Create_User
+11/28/2025 11:31:30 AM:INFO:Starting_Test_create_new_user
+11/28/2025 11:34:29 AM:INFO:Test_002_Create_User
+11/28/2025 11:34:29 AM:INFO:Starting_Test_create_new_user
+11/28/2025 01:58:17 PM:INFO:Test_002_Create_User
+11/28/2025 01:58:17 PM:INFO:Starting_Test_create_new_user
+11/28/2025 02:01:16 PM:INFO:Test_002_Create_User
+11/28/2025 02:01:16 PM:INFO:Starting_Test_create_new_user
+11/28/2025 02:04:10 PM:INFO:Test_002_Create_User
+11/28/2025 02:04:10 PM:INFO:Starting_Test_create_new_user
+11/28/2025 02:23:44 PM:INFO:Test_002_Create_User
+11/28/2025 02:23:44 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:06:13 PM:INFO:Test_002_Create_User
+11/28/2025 03:06:13 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:08:41 PM:INFO:Test_002_Create_User
+11/28/2025 03:08:41 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:25:39 PM:INFO:Test_002_Create_User
+11/28/2025 03:25:39 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:27:27 PM:INFO:Test_002_Create_User
+11/28/2025 03:27:27 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:34:13 PM:INFO:Test_002_Create_User
+11/28/2025 03:34:13 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:45:51 PM:INFO:Test_002_Create_User
+11/28/2025 03:45:51 PM:INFO:Starting_Test_create_new_user
+11/28/2025 03:56:18 PM:INFO:Test_002_Create_User
+11/28/2025 03:56:18 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:26:22 PM:INFO:Test_002_Create_User
+11/28/2025 04:26:22 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:30:59 PM:INFO:Test_002_Create_User
+11/28/2025 04:30:59 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:34:27 PM:INFO:Test_002_Create_User
+11/28/2025 04:34:27 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:40:31 PM:INFO:Test_002_Create_User
+11/28/2025 04:40:31 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:49:06 PM:INFO:Test_002_Create_User
+11/28/2025 04:49:06 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:49:43 PM:INFO:Test_002_Create_User
+11/28/2025 04:49:43 PM:INFO:Starting_Test_create_new_user
+11/28/2025 04:59:13 PM:INFO:Test_002_Create_User
+11/28/2025 04:59:13 PM:INFO:Starting_Test_create_new_user
+11/28/2025 05:49:31 PM:INFO:Test_002_Create_User
+11/28/2025 05:49:31 PM:INFO:Starting_Test_create_new_user
+11/28/2025 05:54:01 PM:INFO:Test_002_Create_User
+11/28/2025 05:54:01 PM:INFO:Starting_Test_create_new_user
+11/28/2025 06:07:31 PM:INFO:Test_002_Create_User
+11/28/2025 06:07:31 PM:INFO:Starting_Test_create_new_user
+12/01/2025 11:02:22 AM:INFO:Test_002_Create_User
+12/01/2025 11:02:22 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:18:09 AM:INFO:Test_002_Create_User
+12/01/2025 11:18:09 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:23:14 AM:INFO:Test_002_Create_User
+12/01/2025 11:23:14 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:25:17 AM:INFO:Selecting dates...
+12/01/2025 11:27:32 AM:INFO:Test_002_Create_User
+12/01/2025 11:27:32 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:29:36 AM:INFO:Selecting start date...
+12/01/2025 11:33:12 AM:INFO:Test_002_Create_User
+12/01/2025 11:33:12 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:35:14 AM:INFO:Selecting start date...
+12/01/2025 11:35:27 AM:WARNING:Could not select start date: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7aff5a235
+	0x7ff7afcb2630
+	0x7ff7afa416dd
+	0x7ff7afa9a27e
+	0x7ff7afa9a58c
+	0x7ff7afaeed77
+	0x7ff7afaebaba
+	0x7ff7afa8b0ed
+	0x7ff7afa8bf63
+	0x7ff7aff85d60
+	0x7ff7aff7fe8a
+	0x7ff7affa1005
+	0x7ff7afccd71e
+	0x7ff7afcd4e1f
+	0x7ff7afcbb7c4
+	0x7ff7afcbb97f
+	0x7ff7afca18e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+12/01/2025 11:35:28 AM:INFO:Selecting completion date...
+12/01/2025 11:35:41 AM:WARNING:Could not select completion date: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7aff5a235
+	0x7ff7afcb2630
+	0x7ff7afa416dd
+	0x7ff7afa9a27e
+	0x7ff7afa9a58c
+	0x7ff7afaeed77
+	0x7ff7afaebaba
+	0x7ff7afa8b0ed
+	0x7ff7afa8bf63
+	0x7ff7aff85d60
+	0x7ff7aff7fe8a
+	0x7ff7affa1005
+	0x7ff7afccd71e
+	0x7ff7afcd4e1f
+	0x7ff7afcbb7c4
+	0x7ff7afcbb97f
+	0x7ff7afca18e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+12/01/2025 11:47:50 AM:INFO:Test_002_Create_User
+12/01/2025 11:47:50 AM:INFO:Starting_Test_create_new_user
+12/01/2025 11:49:55 AM:INFO:Selecting start date...
+12/01/2025 11:49:58 AM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 11:49:58 AM:INFO:Selecting completion date...
+12/01/2025 11:50:12 AM:WARNING:Could not select completion date: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff69b95a235
+	0x7ff69b6b2630
+	0x7ff69b4416dd
+	0x7ff69b49a27e
+	0x7ff69b49a58c
+	0x7ff69b4eed77
+	0x7ff69b4ebaba
+	0x7ff69b48b0ed
+	0x7ff69b48bf63
+	0x7ff69b985d60
+	0x7ff69b97fe8a
+	0x7ff69b9a1005
+	0x7ff69b6cd71e
+	0x7ff69b6d4e1f
+	0x7ff69b6bb7c4
+	0x7ff69b6bb97f
+	0x7ff69b6a18e8
+	0x7ff8a8947374
+	0x7ff8a99fcc91
+
+12/01/2025 12:32:07 PM:INFO:Test_002_Create_User
+12/01/2025 12:32:07 PM:INFO:Starting_Test_create_new_user
+12/01/2025 12:34:02 PM:INFO:Selecting start date...
+12/01/2025 12:34:05 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 12:34:05 PM:INFO:Selecting completion date...
+12/01/2025 12:34:09 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 12:34:22 PM:INFO:Test_002_Create_User
+12/01/2025 12:34:22 PM:INFO:Starting_Test_create_new_user
+12/01/2025 12:36:22 PM:INFO:Selecting start date...
+12/01/2025 12:36:25 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 12:36:25 PM:INFO:Selecting completion date...
+12/01/2025 12:36:29 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 12:53:20 PM:INFO:Test_002_Create_User
+12/01/2025 12:53:20 PM:INFO:Starting_Test_create_new_user
+12/01/2025 12:55:16 PM:INFO:Selecting start date...
+12/01/2025 12:55:19 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 12:55:20 PM:INFO:Selecting completion date...
+12/01/2025 12:55:23 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:03:14 PM:INFO:Test_002_Create_User
+12/01/2025 02:03:14 PM:INFO:Starting_Test_create_new_user
+12/01/2025 02:04:28 PM:INFO:Selecting start date...
+12/01/2025 02:04:31 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:04:31 PM:INFO:Selecting completion date...
+12/01/2025 02:04:34 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:31:09 PM:INFO:Test_002_Create_User
+12/01/2025 02:31:09 PM:INFO:Starting_Test_create_new_user
+12/01/2025 02:32:24 PM:INFO:Selecting start date...
+12/01/2025 02:32:27 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:32:27 PM:INFO:Selecting completion date...
+12/01/2025 02:32:30 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:32:45 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 02:32:45 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 02:35:28 PM:INFO:Test_002_Create_User
+12/01/2025 02:35:28 PM:INFO:Starting_Test_create_new_user
+12/01/2025 02:36:42 PM:INFO:Selecting start date...
+12/01/2025 02:36:45 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:36:46 PM:INFO:Selecting completion date...
+12/01/2025 02:36:49 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:37:06 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 02:37:06 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 02:51:32 PM:INFO:Test_002_Create_User
+12/01/2025 02:51:32 PM:INFO:Starting_Test_create_new_user
+12/01/2025 02:52:45 PM:INFO:Selecting start date...
+12/01/2025 02:52:48 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:52:48 PM:INFO:Selecting completion date...
+12/01/2025 02:52:52 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 02:53:06 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 02:53:06 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:06:55 PM:INFO:Test_002_Create_User
+12/01/2025 03:06:55 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:08:08 PM:INFO:Selecting start date...
+12/01/2025 03:08:11 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:08:11 PM:INFO:Selecting completion date...
+12/01/2025 03:08:15 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:08:29 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:08:29 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:13:17 PM:INFO:Test_002_Create_User
+12/01/2025 03:13:17 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:14:31 PM:INFO:Selecting start date...
+12/01/2025 03:14:34 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:14:34 PM:INFO:Selecting completion date...
+12/01/2025 03:14:38 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:14:52 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:14:52 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:19:04 PM:INFO:Test_002_Create_User
+12/01/2025 03:19:04 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:20:17 PM:INFO:Selecting start date...
+12/01/2025 03:20:20 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:20:20 PM:INFO:Selecting completion date...
+12/01/2025 03:20:24 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:20:38 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:20:38 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:25:05 PM:INFO:Test_002_Create_User
+12/01/2025 03:25:05 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:26:16 PM:INFO:Selecting start date...
+12/01/2025 03:26:20 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:26:20 PM:INFO:Selecting completion date...
+12/01/2025 03:26:23 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:26:37 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:26:37 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:31:32 PM:INFO:Test_002_Create_User
+12/01/2025 03:31:32 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:32:44 PM:INFO:Selecting start date...
+12/01/2025 03:32:47 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:32:48 PM:INFO:Selecting completion date...
+12/01/2025 03:32:51 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:33:05 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:33:05 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:43:36 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:43:36 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:44:32 PM:INFO:Test_002_Create_User
+12/01/2025 03:44:32 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:45:46 PM:INFO:Selecting start date...
+12/01/2025 03:45:49 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:45:50 PM:INFO:Selecting completion date...
+12/01/2025 03:45:53 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:46:26 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:46:26 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 03:57:50 PM:INFO:Test_002_Create_User
+12/01/2025 03:57:50 PM:INFO:Starting_Test_create_new_user
+12/01/2025 03:59:03 PM:INFO:Selecting start date...
+12/01/2025 03:59:06 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:59:06 PM:INFO:Selecting completion date...
+12/01/2025 03:59:10 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 03:59:24 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 03:59:24 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 04:01:01 PM:INFO:Test_002_Create_User
+12/01/2025 04:01:01 PM:INFO:Starting_Test_create_new_user
+12/01/2025 04:02:13 PM:INFO:Selecting start date...
+12/01/2025 04:02:16 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 04:02:17 PM:INFO:Selecting completion date...
+12/01/2025 04:02:20 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 04:02:34 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 04:02:34 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 04:19:54 PM:INFO:Test_002_Create_User
+12/01/2025 04:19:54 PM:INFO:Starting_Test_create_new_user
+12/01/2025 04:21:17 PM:INFO:Selecting start date...
+12/01/2025 04:21:20 PM:WARNING:Could not select start date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 04:21:20 PM:INFO:Selecting completion date...
+12/01/2025 04:21:24 PM:WARNING:Could not select completion date: Message: Select only works on <select> elements, not on span
+
+12/01/2025 04:21:54 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 04:21:54 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 04:33:35 PM:INFO:Test_002_Create_User
+12/01/2025 04:33:35 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:03:27 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:03:27 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:11:58 PM:INFO:Test_002_Create_User
+12/01/2025 05:11:59 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:13:17 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:13:17 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:14:06 PM:INFO:Test_002_Create_User
+12/01/2025 05:14:06 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:15:24 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:15:24 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:19:59 PM:INFO:Test_002_Create_User
+12/01/2025 05:19:59 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:21:28 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:21:28 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:40:39 PM:INFO:Test_002_Create_User
+12/01/2025 05:40:39 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:42:08 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:42:08 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:44:22 PM:INFO:Test_002_Create_User
+12/01/2025 05:44:22 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:45:42 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:45:42 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:49:52 PM:INFO:Test_002_Create_User
+12/01/2025 05:49:52 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:51:08 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:51:08 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:52:43 PM:INFO:Test_002_Create_User
+12/01/2025 05:52:43 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:53:57 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:53:57 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 05:55:42 PM:INFO:Test_002_Create_User
+12/01/2025 05:55:42 PM:INFO:Starting_Test_create_new_user
+12/01/2025 05:56:57 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 05:56:57 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:02:05 PM:INFO:Test_002_Create_User
+12/01/2025 06:02:05 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:03:20 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:03:20 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:06:34 PM:INFO:Test_002_Create_User
+12/01/2025 06:06:34 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:07:58 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:07:58 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:11:28 PM:INFO:Test_002_Create_User
+12/01/2025 06:11:28 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:12:51 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:12:51 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:17:11 PM:INFO:Test_002_Create_User
+12/01/2025 06:17:11 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:18:46 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:18:46 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:21:54 PM:INFO:Test_002_Create_User
+12/01/2025 06:21:54 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:23:18 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:23:18 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:26:50 PM:INFO:Test_002_Create_User
+12/01/2025 06:26:50 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:28:13 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:28:13 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:30:07 PM:INFO:Test_002_Create_User
+12/01/2025 06:30:07 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:31:42 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:31:42 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:32:07 PM:INFO:Test_002_Create_User
+12/01/2025 06:32:07 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:33:43 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:33:43 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:35:23 PM:INFO:Test_002_Create_User
+12/01/2025 06:35:23 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:36:57 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:36:57 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:38:19 PM:INFO:Test_002_Create_User
+12/01/2025 06:38:19 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:39:54 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:39:54 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:46:48 PM:INFO:Test_002_Create_User
+12/01/2025 06:46:48 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:48:23 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:48:23 PM:INFO:Starting_Test_login_new_user_profile
+12/01/2025 06:57:02 PM:INFO:Test_002_Create_User
+12/01/2025 06:57:02 PM:INFO:Starting_Test_create_new_user
+12/01/2025 06:58:39 PM:INFO:Test_003_Login_New_User_Profile
+12/01/2025 06:58:39 PM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 10:34:35 AM:INFO:Test_002_Create_User
+12/02/2025 10:34:35 AM:INFO:Starting_Test_create_new_user
+12/02/2025 10:36:10 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 10:36:10 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 10:36:48 AM:INFO:Test_002_Create_User
+12/02/2025 10:36:48 AM:INFO:Starting_Test_create_new_user
+12/02/2025 10:36:56 AM:INFO:Test_002_Create_User
+12/02/2025 10:36:56 AM:INFO:Starting_Test_create_new_user
+12/02/2025 10:38:31 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 10:38:31 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 10:53:33 AM:INFO:Test_002_Create_User
+12/02/2025 10:53:33 AM:INFO:Starting_Test_create_new_user
+12/02/2025 10:55:09 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 10:55:09 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 10:58:20 AM:INFO:Test_002_Create_User
+12/02/2025 10:58:20 AM:INFO:Starting_Test_create_new_user
+12/02/2025 10:59:55 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 10:59:55 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 11:01:29 AM:INFO:Test_002_Create_User
+12/02/2025 11:01:29 AM:INFO:Starting_Test_create_new_user
+12/02/2025 11:03:03 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 11:03:03 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 11:07:49 AM:INFO:Test_002_Create_User
+12/02/2025 11:07:49 AM:INFO:Starting_Test_create_new_user
+12/02/2025 11:09:23 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 11:09:23 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 11:14:12 AM:INFO:Test_002_Create_User
+12/02/2025 11:14:12 AM:INFO:Starting_Test_create_new_user
+12/02/2025 11:14:22 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 11:14:22 AM:INFO:Starting_Test_login_new_user_profile
+12/02/2025 11:14:26 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268662F4CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec/url
+12/02/2025 11:14:30 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000268662F4550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec/url
+12/02/2025 11:14:34 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002686623B820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec/url
+12/02/2025 11:14:39 AM:INFO:Test_002_Create_User
+12/02/2025 11:14:39 AM:INFO:Starting_Test_create_new_user
+12/02/2025 11:14:43 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026868EB4DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec
+12/02/2025 11:14:47 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026868E179B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec
+12/02/2025 11:14:51 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026868E17F00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbe62422843de47398f3458c9dd35fec
+12/02/2025 11:17:40 AM:INFO:Test_002_Create_User
+12/02/2025 11:17:40 AM:INFO:Starting_Test_create_new_user
+12/02/2025 11:19:37 AM:INFO:Test_003_Login_New_User_Profile
+12/02/2025 11:19:37 AM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 12:37:17 PM:INFO:Test_002_Create_User
+12/08/2025 12:37:17 PM:INFO:Starting_Test_create_new_user
+12/08/2025 12:39:00 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 12:39:00 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 12:52:14 PM:INFO:Test_002_Create_User
+12/08/2025 12:52:14 PM:INFO:Starting_Test_create_new_user
+12/08/2025 12:54:04 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 12:54:04 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 12:57:14 PM:INFO:Test_002_Create_User
+12/08/2025 12:57:14 PM:INFO:Starting_Test_create_new_user
+12/08/2025 02:36:45 PM:INFO:Test_002_Create_User
+12/08/2025 02:36:45 PM:INFO:Starting_Test_create_new_user
+12/08/2025 02:38:41 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 02:38:41 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 05:18:22 PM:INFO:Test_002_Create_User
+12/08/2025 05:18:22 PM:INFO:Starting_Test_create_new_user
+12/08/2025 05:20:16 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 05:20:16 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 05:25:22 PM:INFO:Test_002_Create_User
+12/08/2025 05:25:22 PM:INFO:Starting_Test_create_new_user
+12/08/2025 05:27:24 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 05:27:24 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 05:33:13 PM:INFO:Test_002_Create_User
+12/08/2025 05:33:13 PM:INFO:Starting_Test_create_new_user
+12/08/2025 05:35:12 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 05:35:12 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 05:39:21 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 05:39:21 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 05:39:58 PM:INFO:Test_002_Create_User
+12/08/2025 05:39:58 PM:INFO:Starting_Test_create_new_user
+12/08/2025 05:42:05 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 05:42:05 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 06:00:49 PM:INFO:Test_002_Create_User
+12/08/2025 06:00:49 PM:INFO:Starting_Test_create_new_user
+12/08/2025 06:02:48 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 06:02:48 PM:INFO:Starting_Test_login_new_user_profile
+12/08/2025 06:38:56 PM:INFO:Test_002_Create_User
+12/08/2025 06:38:56 PM:INFO:Starting_Test_create_new_user
+12/08/2025 06:40:57 PM:INFO:Test_003_Login_New_User_Profile
+12/08/2025 06:40:57 PM:INFO:Starting_Test_login_new_user_profile
+12/09/2025 02:53:31 PM:INFO:
+======================================================================
+12/09/2025 02:53:31 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/09/2025 02:53:31 PM:INFO:======================================================================
+12/09/2025 02:53:31 PM:INFO:
+[TEST 1] BLANK verification code...
+12/09/2025 02:53:55 PM:INFO:\u26a0 Checking if blank code is rejected...
+12/09/2025 02:53:57 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/09/2025 02:54:14 PM:INFO:\u2713 Wrong code rejected - still on login page
+12/09/2025 02:54:14 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/09/2025 02:54:32 PM:INFO:\u2713 Special characters rejected
+12/09/2025 02:54:32 PM:INFO:
+[TEST 4] CORRECT verification code...
+12/09/2025 02:54:42 PM:INFO:Using correct code: 112233
+12/09/2025 02:54:51 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/09/2025 02:54:51 PM:INFO:
+======================================================================
+12/09/2025 02:54:51 PM:INFO:\u2705 ALL SCENARIOS PASSED
+12/09/2025 02:54:51 PM:INFO:======================================================================
+12/09/2025 02:54:51 PM:INFO:Test_002_Create_User
+12/09/2025 02:54:51 PM:INFO:Starting_Test_create_new_user
+12/09/2025 02:55:02 PM:INFO:Test_003_Login_New_User_Profile
+12/09/2025 02:55:02 PM:INFO:Starting_Test_login_new_user_profile
+12/09/2025 02:55:37 PM:INFO:
+======================================================================
+12/09/2025 02:55:37 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/09/2025 02:55:37 PM:INFO:======================================================================
+12/09/2025 02:55:37 PM:INFO:
+[TEST 1] BLANK verification code...
+12/09/2025 02:56:01 PM:INFO:\u26a0 Checking if blank code is rejected...
+12/09/2025 02:56:03 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/09/2025 02:56:20 PM:INFO:\u2713 Wrong code rejected - still on login page
+12/09/2025 02:56:20 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/09/2025 02:56:38 PM:INFO:\u2713 Special characters rejected
+12/09/2025 02:56:38 PM:INFO:
+[TEST 4] CORRECT verification code...
+12/09/2025 02:56:48 PM:INFO:Using correct code: 112233
+12/09/2025 02:56:58 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/09/2025 02:56:58 PM:INFO:
+======================================================================
+12/09/2025 02:56:58 PM:INFO:\u2705 ALL SCENARIOS PASSED
+12/09/2025 02:56:58 PM:INFO:======================================================================
+12/09/2025 02:56:58 PM:INFO:Test_002_Create_User
+12/09/2025 02:56:58 PM:INFO:Starting_Test_create_new_user
+12/09/2025 02:57:08 PM:INFO:Test_003_Login_New_User_Profile
+12/09/2025 02:57:08 PM:INFO:Starting_Test_login_new_user_profile
+12/09/2025 02:58:07 PM:INFO:Test_002_Create_User
+12/09/2025 02:58:07 PM:INFO:Starting_Test_create_new_user
+12/09/2025 03:00:02 PM:INFO:Test_003_Login_New_User_Profile
+12/09/2025 03:00:02 PM:INFO:Starting_Test_login_new_user_profile
+12/09/2025 04:10:11 PM:INFO:
+======================================================================
+12/09/2025 04:10:11 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/09/2025 04:10:11 PM:INFO:======================================================================
+12/09/2025 04:10:11 PM:INFO:
+[TEST 1] BLANK verification code...
+12/09/2025 04:10:30 PM:INFO:\u26a0 Checking if blank code is rejected...
+12/09/2025 04:10:32 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/09/2025 04:10:50 PM:INFO:\u2713 Wrong code rejected - still on login page
+12/09/2025 04:10:50 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/09/2025 04:11:07 PM:INFO:\u2713 Special characters rejected
+12/09/2025 04:11:07 PM:INFO:
+[TEST 4] CORRECT verification code...
+12/09/2025 04:11:18 PM:INFO:Using correct code: 112233
+12/09/2025 04:11:27 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/09/2025 04:11:27 PM:INFO:
+======================================================================
+12/09/2025 04:11:27 PM:INFO:\u2705 ALL SCENARIOS PASSED
+12/09/2025 04:11:27 PM:INFO:======================================================================
+12/09/2025 04:11:27 PM:INFO:Test_002_Create_User
+12/09/2025 04:11:27 PM:INFO:Starting_Test_create_new_user
+12/09/2025 04:11:37 PM:INFO:Test_003_Login_New_User_Profile
+12/09/2025 04:11:37 PM:INFO:Starting_Test_login_new_user_profile
+12/10/2025 10:34:42 AM:INFO:
+======================================================================
+12/10/2025 10:34:42 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/10/2025 10:34:42 AM:INFO:======================================================================
+12/10/2025 10:34:42 AM:INFO:
+[TEST 1] BLANK verification code...
+12/10/2025 10:35:01 AM:INFO:\u26a0 Checking if blank code is rejected...
+12/10/2025 10:35:03 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/10/2025 10:35:20 AM:INFO:\u2713 Wrong code rejected - still on login page
+12/10/2025 10:35:20 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/10/2025 10:35:38 AM:INFO:\u2713 Special characters rejected
+12/10/2025 10:35:38 AM:INFO:
+[TEST 4] CORRECT verification code...
+12/10/2025 10:35:48 AM:INFO:Using correct code: 112233
+12/10/2025 10:35:57 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/10/2025 10:35:57 AM:INFO:
+======================================================================
+12/10/2025 10:35:57 AM:INFO:\u2705 ALL SCENARIOS PASSED
+12/10/2025 10:35:57 AM:INFO:======================================================================
+12/10/2025 10:35:57 AM:INFO:Test_002_Create_User
+12/10/2025 10:35:57 AM:INFO:Starting_Test_create_new_user
+12/10/2025 10:36:08 AM:INFO:Test_003_Login_New_User_Profile
+12/10/2025 10:36:08 AM:INFO:Starting_Test_login_new_user_profile
+12/10/2025 10:37:08 AM:INFO:
+======================================================================
+12/10/2025 10:37:08 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/10/2025 10:37:08 AM:INFO:======================================================================
+12/10/2025 10:37:08 AM:INFO:
+[TEST 1] BLANK verification code...
+12/10/2025 10:37:27 AM:INFO:\u26a0 Checking if blank code is rejected...
+12/10/2025 10:37:29 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/10/2025 10:37:46 AM:INFO:\u2713 Wrong code rejected - still on login page
+12/10/2025 10:37:46 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/10/2025 10:38:04 AM:INFO:\u2713 Special characters rejected
+12/10/2025 10:38:04 AM:INFO:
+[TEST 4] CORRECT verification code...
+12/10/2025 10:38:14 AM:INFO:Using correct code: 112233
+12/10/2025 10:38:23 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/10/2025 10:38:23 AM:INFO:
+======================================================================
+12/10/2025 10:38:23 AM:INFO:\u2705 ALL SCENARIOS PASSED
+12/10/2025 10:38:23 AM:INFO:======================================================================
+12/10/2025 10:38:23 AM:INFO:Test_002_Create_User
+12/10/2025 10:38:23 AM:INFO:Starting_Test_create_new_user
+12/10/2025 10:38:34 AM:INFO:Test_003_Login_New_User_Profile
+12/10/2025 10:38:34 AM:INFO:Starting_Test_login_new_user_profile
+12/30/2025 12:20:36 PM:INFO:
+======================================================================
+12/30/2025 12:20:36 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+12/30/2025 12:20:36 PM:INFO:======================================================================
+12/30/2025 12:20:36 PM:INFO:
+[TEST 1] BLANK verification code...
+12/30/2025 12:21:01 PM:INFO:\u26a0 Checking if blank code is rejected...
+12/30/2025 12:21:03 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+12/30/2025 12:21:21 PM:INFO:\u2713 Wrong code rejected - still on login page
+12/30/2025 12:21:21 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+12/30/2025 12:21:39 PM:INFO:\u2713 Special characters rejected
+12/30/2025 12:21:39 PM:INFO:
+[TEST 4] CORRECT verification code...
+12/30/2025 12:21:49 PM:INFO:Using correct code: 112233
+12/30/2025 12:21:59 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+12/30/2025 12:21:59 PM:INFO:
+======================================================================
+12/30/2025 12:21:59 PM:INFO:\u2705 ALL SCENARIOS PASSED
+12/30/2025 12:21:59 PM:INFO:======================================================================
+12/30/2025 12:21:59 PM:INFO:Test_002_Create_User
+12/30/2025 12:21:59 PM:INFO:Starting_Test_create_new_user
+12/30/2025 12:22:10 PM:INFO:Test_003_Login_New_User_Profile
+12/30/2025 12:22:10 PM:INFO:Starting_Test_login_new_user_profile
+01/08/2026 02:36:17 PM:INFO:
+======================================================================
+01/08/2026 02:36:17 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/08/2026 02:36:17 PM:INFO:======================================================================
+01/08/2026 02:36:17 PM:INFO:
+[TEST 1] BLANK verification code...
+01/08/2026 02:36:41 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/08/2026 02:36:43 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/08/2026 02:37:02 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/08/2026 02:37:02 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/08/2026 02:37:20 PM:INFO:\u2713 Special characters rejected
+01/08/2026 02:37:20 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/08/2026 02:37:31 PM:INFO:Using correct code: 112233
+01/08/2026 02:37:40 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/08/2026 02:37:40 PM:INFO:
+======================================================================
+01/08/2026 02:37:40 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/08/2026 02:37:40 PM:INFO:======================================================================
+01/08/2026 02:37:40 PM:INFO:Test_002_Create_User
+01/08/2026 02:37:40 PM:INFO:Starting_Test_create_new_user
+01/08/2026 02:37:51 PM:INFO:Test_003_Login_New_User_Profile
+01/08/2026 02:37:51 PM:INFO:Starting_Test_login_new_user_profile
+01/08/2026 02:46:22 PM:INFO:
+======================================================================
+01/08/2026 02:46:22 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/08/2026 02:46:22 PM:INFO:======================================================================
+01/08/2026 02:46:22 PM:INFO:
+[TEST 1] BLANK verification code...
+01/08/2026 02:46:41 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/08/2026 02:46:43 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/08/2026 02:47:02 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/08/2026 02:47:02 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/08/2026 02:47:19 PM:INFO:\u2713 Special characters rejected
+01/08/2026 02:47:19 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/08/2026 02:47:31 PM:INFO:Using correct code: 112233
+01/08/2026 02:47:40 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/08/2026 02:47:40 PM:INFO:
+======================================================================
+01/08/2026 02:47:40 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/08/2026 02:47:40 PM:INFO:======================================================================
+01/08/2026 02:47:40 PM:INFO:Test_002_Create_User
+01/08/2026 02:47:40 PM:INFO:Starting_Test_create_new_user
+01/08/2026 02:47:50 PM:INFO:Test_003_Login_New_User_Profile
+01/08/2026 02:47:50 PM:INFO:Starting_Test_login_new_user_profile
+01/09/2026 04:46:03 PM:INFO:
+======================================================================
+01/09/2026 04:46:03 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/09/2026 04:46:03 PM:INFO:======================================================================
+01/09/2026 04:46:03 PM:INFO:
+[TEST 1] BLANK verification code...
+01/09/2026 04:46:26 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/09/2026 04:46:28 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/09/2026 04:46:46 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/09/2026 04:46:46 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/09/2026 04:47:04 PM:INFO:\u2713 Special characters rejected
+01/09/2026 04:47:04 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/09/2026 04:47:15 PM:INFO:Using correct code: 112233
+01/09/2026 04:47:24 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/09/2026 04:47:24 PM:INFO:
+======================================================================
+01/09/2026 04:47:24 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/09/2026 04:47:24 PM:INFO:======================================================================
+01/09/2026 04:47:24 PM:INFO:Test_002_Create_User
+01/09/2026 04:47:24 PM:INFO:Starting_Test_create_new_user
+01/09/2026 04:47:35 PM:INFO:Test_003_Login_New_User_Profile
+01/09/2026 04:47:35 PM:INFO:Starting_Test_login_new_user_profile
+01/09/2026 04:56:13 PM:INFO:
+======================================================================
+01/09/2026 04:56:13 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/09/2026 04:56:13 PM:INFO:======================================================================
+01/09/2026 04:56:13 PM:INFO:
+[TEST 1] BLANK verification code...
+01/09/2026 04:56:39 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/09/2026 04:56:41 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/09/2026 04:57:00 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/09/2026 04:57:00 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/09/2026 04:57:18 PM:INFO:\u2713 Special characters rejected
+01/09/2026 04:57:18 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/09/2026 04:57:29 PM:INFO:Using correct code: 112233
+01/09/2026 04:57:38 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/09/2026 04:57:38 PM:INFO:
+======================================================================
+01/09/2026 04:57:38 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/09/2026 04:57:38 PM:INFO:======================================================================
+01/09/2026 04:57:38 PM:INFO:Test_002_Create_User
+01/09/2026 04:57:38 PM:INFO:Starting_Test_create_new_user
+01/09/2026 04:57:49 PM:INFO:Test_003_Login_New_User_Profile
+01/09/2026 04:57:49 PM:INFO:Starting_Test_login_new_user_profile
+01/09/2026 06:56:47 PM:INFO:
+======================================================================
+01/09/2026 06:56:47 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/09/2026 06:56:47 PM:INFO:======================================================================
+01/09/2026 06:56:47 PM:INFO:
+[TEST 1] BLANK verification code...
+01/09/2026 06:57:05 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/09/2026 06:57:07 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/09/2026 06:57:26 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/09/2026 06:57:26 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/09/2026 06:57:44 PM:INFO:\u2713 Special characters rejected
+01/09/2026 06:57:44 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/09/2026 06:57:55 PM:INFO:Using correct code: 112233
+01/09/2026 06:58:04 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/09/2026 06:58:04 PM:INFO:
+======================================================================
+01/09/2026 06:58:04 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/09/2026 06:58:04 PM:INFO:======================================================================
+01/09/2026 06:58:04 PM:INFO:Test_002_Create_User
+01/09/2026 06:58:04 PM:INFO:Starting_Test_create_new_user
+01/09/2026 06:58:16 PM:INFO:Test_003_Login_New_User_Profile
+01/09/2026 06:58:16 PM:INFO:Starting_Test_login_new_user_profile
+01/12/2026 11:17:39 AM:INFO:
+======================================================================
+01/12/2026 11:17:39 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/12/2026 11:17:39 AM:INFO:======================================================================
+01/12/2026 11:17:39 AM:INFO:
+[TEST 1] BLANK verification code...
+01/12/2026 11:17:58 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/12/2026 11:18:00 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/12/2026 11:18:18 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/12/2026 11:18:18 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/12/2026 11:18:36 AM:INFO:\u2713 Special characters rejected
+01/12/2026 11:18:36 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/12/2026 11:18:46 AM:INFO:Using correct code: 112233
+01/12/2026 11:18:55 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/12/2026 11:18:55 AM:INFO:
+======================================================================
+01/12/2026 11:18:55 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/12/2026 11:18:55 AM:INFO:======================================================================
+01/12/2026 11:18:55 AM:INFO:Test_002_Create_User
+01/12/2026 11:18:55 AM:INFO:Starting_Test_create_new_user
+01/12/2026 11:19:06 AM:INFO:Test_003_Login_New_User_Profile
+01/12/2026 11:19:06 AM:INFO:Starting_Test_login_new_user_profile
+01/12/2026 11:21:56 AM:INFO:
+======================================================================
+01/12/2026 11:21:56 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/12/2026 11:21:56 AM:INFO:======================================================================
+01/12/2026 11:21:56 AM:INFO:
+[TEST 1] BLANK verification code...
+01/12/2026 11:22:15 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/12/2026 11:22:17 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/12/2026 11:22:35 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/12/2026 11:22:35 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/12/2026 11:22:52 AM:INFO:\u2713 Special characters rejected
+01/12/2026 11:22:52 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/12/2026 11:23:03 AM:INFO:Using correct code: 112233
+01/12/2026 11:23:12 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/12/2026 11:23:12 AM:INFO:
+======================================================================
+01/12/2026 11:23:12 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/12/2026 11:23:12 AM:INFO:======================================================================
+01/12/2026 11:23:17 AM:INFO:Test_002_Create_User
+01/12/2026 11:23:17 AM:INFO:Starting_Test_create_new_user
+01/12/2026 11:23:28 AM:INFO:Test_003_Login_New_User_Profile
+01/12/2026 11:23:28 AM:INFO:Starting_Test_login_new_user_profile
+01/12/2026 11:29:05 AM:INFO:
+======================================================================
+01/12/2026 11:29:05 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/12/2026 11:29:05 AM:INFO:======================================================================
+01/12/2026 11:29:05 AM:INFO:
+[TEST 1] BLANK verification code...
+01/12/2026 11:29:26 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/12/2026 11:29:28 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/12/2026 11:29:47 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/12/2026 11:29:47 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/12/2026 11:30:05 AM:INFO:\u2713 Special characters rejected
+01/12/2026 11:30:05 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/12/2026 11:30:17 AM:INFO:Using correct code: 112233
+01/12/2026 11:30:26 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/12/2026 11:30:26 AM:INFO:
+======================================================================
+01/12/2026 11:30:26 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/12/2026 11:30:26 AM:INFO:======================================================================
+01/12/2026 11:30:31 AM:INFO:Test_002_Create_User
+01/12/2026 11:30:31 AM:INFO:Starting_Test_create_new_user
+01/12/2026 11:31:12 AM:INFO:Test_003_Login_New_User_Profile
+01/12/2026 11:31:12 AM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 03:55:24 PM:INFO:
+======================================================================
+01/13/2026 03:55:24 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 03:55:24 PM:INFO:======================================================================
+01/13/2026 03:55:24 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 03:55:43 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 03:55:45 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 03:56:15 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 03:56:15 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 03:56:33 PM:INFO:\u2713 Special characters rejected
+01/13/2026 03:56:33 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 03:56:45 PM:INFO:Using correct code: 112233
+01/13/2026 03:56:54 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 03:56:54 PM:INFO:
+======================================================================
+01/13/2026 03:56:54 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 03:56:54 PM:INFO:======================================================================
+01/13/2026 03:56:59 PM:INFO:Test_002_Create_User
+01/13/2026 03:56:59 PM:INFO:Starting_Test_create_new_user
+01/13/2026 03:57:40 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 03:57:40 PM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 03:59:42 PM:INFO:
+======================================================================
+01/13/2026 03:59:42 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 03:59:42 PM:INFO:======================================================================
+01/13/2026 03:59:42 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 04:00:05 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 04:00:07 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 04:00:26 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 04:00:26 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 04:00:44 PM:INFO:\u2713 Special characters rejected
+01/13/2026 04:00:44 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 04:00:55 PM:INFO:Using correct code: 112233
+01/13/2026 04:01:05 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 04:01:05 PM:INFO:
+======================================================================
+01/13/2026 04:01:05 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 04:01:05 PM:INFO:======================================================================
+01/13/2026 04:01:10 PM:INFO:Test_002_Create_User
+01/13/2026 04:01:10 PM:INFO:Starting_Test_create_new_user
+01/13/2026 04:01:51 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 04:01:51 PM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 04:05:17 PM:INFO:
+======================================================================
+01/13/2026 04:05:17 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 04:05:17 PM:INFO:======================================================================
+01/13/2026 04:05:17 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 04:05:41 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 04:05:43 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 04:06:01 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 04:06:01 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 04:06:20 PM:INFO:\u2713 Special characters rejected
+01/13/2026 04:06:20 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 04:06:31 PM:INFO:Using correct code: 112233
+01/13/2026 04:06:40 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 04:06:40 PM:INFO:
+======================================================================
+01/13/2026 04:06:40 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 04:06:40 PM:INFO:======================================================================
+01/13/2026 04:06:45 PM:INFO:Test_002_Create_User
+01/13/2026 04:06:45 PM:INFO:Starting_Test_create_new_user
+01/13/2026 04:07:26 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 04:07:26 PM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 04:17:12 PM:INFO:
+======================================================================
+01/13/2026 04:17:12 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 04:17:12 PM:INFO:======================================================================
+01/13/2026 04:17:12 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 04:17:35 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 04:17:37 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 04:17:56 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 04:17:56 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 04:18:15 PM:INFO:\u2713 Special characters rejected
+01/13/2026 04:18:15 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 04:18:26 PM:INFO:Using correct code: 112233
+01/13/2026 04:18:35 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 04:18:35 PM:INFO:
+======================================================================
+01/13/2026 04:18:35 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 04:18:35 PM:INFO:======================================================================
+01/13/2026 04:18:40 PM:INFO:Test_002_Create_User
+01/13/2026 04:18:40 PM:INFO:Starting_Test_create_new_user
+01/13/2026 04:19:21 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 04:19:21 PM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 04:23:36 PM:INFO:
+======================================================================
+01/13/2026 04:23:36 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 04:23:36 PM:INFO:======================================================================
+01/13/2026 04:23:36 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 04:24:05 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 04:24:07 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 04:24:25 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 04:24:25 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 04:24:44 PM:INFO:\u2713 Special characters rejected
+01/13/2026 04:24:44 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 04:24:55 PM:INFO:Using correct code: 112233
+01/13/2026 04:25:04 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 04:25:04 PM:INFO:
+======================================================================
+01/13/2026 04:25:04 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 04:25:04 PM:INFO:======================================================================
+01/13/2026 04:25:09 PM:INFO:Test_002_Create_User
+01/13/2026 04:25:09 PM:INFO:Starting_Test_create_new_user
+01/13/2026 04:25:51 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 04:25:51 PM:INFO:Starting_Test_login_new_user_profile
+01/13/2026 04:30:17 PM:INFO:
+======================================================================
+01/13/2026 04:30:17 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/13/2026 04:30:17 PM:INFO:======================================================================
+01/13/2026 04:30:17 PM:INFO:
+[TEST 1] BLANK verification code...
+01/13/2026 04:30:45 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/13/2026 04:30:47 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/13/2026 04:31:06 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/13/2026 04:31:06 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/13/2026 04:31:24 PM:INFO:\u2713 Special characters rejected
+01/13/2026 04:31:24 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/13/2026 04:31:35 PM:INFO:Using correct code: 112233
+01/13/2026 04:31:45 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/13/2026 04:31:45 PM:INFO:
+======================================================================
+01/13/2026 04:31:45 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/13/2026 04:31:45 PM:INFO:======================================================================
+01/13/2026 04:31:50 PM:INFO:Test_002_Create_User
+01/13/2026 04:31:50 PM:INFO:Starting_Test_create_new_user
+01/13/2026 04:32:31 PM:INFO:Test_003_Login_New_User_Profile
+01/13/2026 04:32:31 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 11:17:20 AM:INFO:
+======================================================================
+01/19/2026 11:17:20 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 11:17:20 AM:INFO:======================================================================
+01/19/2026 11:17:20 AM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 11:17:39 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 11:17:41 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 11:17:59 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 11:17:59 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 11:18:18 AM:INFO:\u2713 Special characters rejected
+01/19/2026 11:18:18 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 11:18:29 AM:INFO:Using correct code: 112233
+01/19/2026 11:18:39 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 11:18:39 AM:INFO:
+======================================================================
+01/19/2026 11:18:39 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 11:18:39 AM:INFO:======================================================================
+01/19/2026 11:18:44 AM:INFO:Test_002_Create_User
+01/19/2026 11:18:44 AM:INFO:Starting_Test_create_new_user
+01/19/2026 11:19:25 AM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 11:19:25 AM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 11:25:16 AM:INFO:
+======================================================================
+01/19/2026 11:25:16 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 11:25:16 AM:INFO:======================================================================
+01/19/2026 11:25:16 AM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 11:25:35 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 11:25:37 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 11:25:55 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 11:25:55 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 11:26:14 AM:INFO:\u2713 Special characters rejected
+01/19/2026 11:26:14 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 11:26:26 AM:INFO:Using correct code: 112233
+01/19/2026 11:26:35 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 11:26:35 AM:INFO:
+======================================================================
+01/19/2026 11:26:35 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 11:26:35 AM:INFO:======================================================================
+01/19/2026 11:26:40 AM:INFO:Test_002_Create_User
+01/19/2026 11:26:40 AM:INFO:Starting_Test_create_new_user
+01/19/2026 11:27:21 AM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 11:27:21 AM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 11:35:20 AM:INFO:Test_002_Create_User
+01/19/2026 11:35:20 AM:INFO:Starting_Test_create_new_user
+01/19/2026 11:35:55 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F9D23A6D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/02a2422f68e5a0ba9bc41cb33a0a1e70
+01/19/2026 11:35:59 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F9D23A47D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/02a2422f68e5a0ba9bc41cb33a0a1e70
+01/19/2026 11:36:03 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F9D22EB100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/02a2422f68e5a0ba9bc41cb33a0a1e70
+01/19/2026 11:36:07 AM:INFO:
+======================================================================
+01/19/2026 11:36:07 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 11:36:07 AM:INFO:======================================================================
+01/19/2026 11:36:07 AM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 11:36:25 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 11:36:27 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 11:36:46 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 11:36:46 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 11:37:04 AM:INFO:\u2713 Special characters rejected
+01/19/2026 11:37:04 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 11:37:16 AM:INFO:Using correct code: 112233
+01/19/2026 11:37:25 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 11:37:25 AM:INFO:
+======================================================================
+01/19/2026 11:37:25 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 11:37:25 AM:INFO:======================================================================
+01/19/2026 11:37:30 AM:INFO:Test_002_Create_User
+01/19/2026 11:37:30 AM:INFO:Starting_Test_create_new_user
+01/19/2026 11:38:11 AM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 11:38:11 AM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 11:40:09 AM:INFO:
+======================================================================
+01/19/2026 11:40:09 AM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 11:40:09 AM:INFO:======================================================================
+01/19/2026 11:40:09 AM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 11:40:27 AM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 11:40:29 AM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 11:40:48 AM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 11:40:48 AM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 11:41:06 AM:INFO:\u2713 Special characters rejected
+01/19/2026 11:41:06 AM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 11:41:17 AM:INFO:Using correct code: 112233
+01/19/2026 11:41:26 AM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 11:41:26 AM:INFO:
+======================================================================
+01/19/2026 11:41:26 AM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 11:41:26 AM:INFO:======================================================================
+01/19/2026 11:41:31 AM:INFO:Test_002_Create_User
+01/19/2026 11:41:31 AM:INFO:Starting_Test_create_new_user
+01/19/2026 11:41:52 AM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 11:41:52 AM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 12:37:45 PM:INFO:Test_002_Create_User
+01/19/2026 12:37:45 PM:INFO:Starting_Test_create_new_user
+01/19/2026 12:38:51 PM:INFO:Test_002_Create_User
+01/19/2026 12:38:51 PM:INFO:Starting_Test_create_new_user
+01/19/2026 12:47:05 PM:INFO:
+======================================================================
+01/19/2026 12:47:05 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 12:47:05 PM:INFO:======================================================================
+01/19/2026 12:47:05 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 12:47:28 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 12:47:30 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 12:47:48 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 12:47:48 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 12:48:07 PM:INFO:\u2713 Special characters rejected
+01/19/2026 12:48:07 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 12:48:18 PM:INFO:Using correct code: 112233
+01/19/2026 12:48:27 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 12:48:27 PM:INFO:
+======================================================================
+01/19/2026 12:48:27 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 12:48:27 PM:INFO:======================================================================
+01/19/2026 12:48:32 PM:INFO:Test_002_Create_User
+01/19/2026 12:48:32 PM:INFO:Starting_Test_create_new_user
+01/19/2026 12:48:32 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 12:48:32 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 12:50:46 PM:INFO:
+======================================================================
+01/19/2026 12:50:46 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 12:50:46 PM:INFO:======================================================================
+01/19/2026 12:50:46 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 12:51:07 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 12:51:09 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 12:51:28 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 12:51:28 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 12:51:46 PM:INFO:\u2713 Special characters rejected
+01/19/2026 12:51:46 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 12:51:57 PM:INFO:Using correct code: 112233
+01/19/2026 12:52:07 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 12:52:07 PM:INFO:
+======================================================================
+01/19/2026 12:52:07 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 12:52:07 PM:INFO:======================================================================
+01/19/2026 12:52:12 PM:INFO:Test_002_Create_User
+01/19/2026 12:52:12 PM:INFO:Starting_Test_create_new_user
+01/19/2026 12:52:12 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 12:52:12 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 12:58:11 PM:INFO:
+======================================================================
+01/19/2026 12:58:11 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 12:58:11 PM:INFO:======================================================================
+01/19/2026 12:58:11 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 12:58:32 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 12:58:34 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 12:58:53 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 12:58:53 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 12:59:11 PM:INFO:\u2713 Special characters rejected
+01/19/2026 12:59:11 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 12:59:23 PM:INFO:Using correct code: 112233
+01/19/2026 12:59:32 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 12:59:32 PM:INFO:
+======================================================================
+01/19/2026 12:59:32 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 12:59:32 PM:INFO:======================================================================
+01/19/2026 12:59:37 PM:INFO:Test_002_Create_User
+01/19/2026 12:59:37 PM:INFO:Starting_Test_create_new_user
+01/19/2026 12:59:37 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 12:59:37 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 03:04:40 PM:INFO:
+======================================================================
+01/19/2026 03:04:40 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 03:04:40 PM:INFO:======================================================================
+01/19/2026 03:04:40 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 03:05:04 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 03:05:06 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 03:05:25 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 03:05:25 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 03:05:43 PM:INFO:\u2713 Special characters rejected
+01/19/2026 03:05:43 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 03:05:55 PM:INFO:Using correct code: 112233
+01/19/2026 03:06:04 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 03:06:04 PM:INFO:
+======================================================================
+01/19/2026 03:06:04 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 03:06:04 PM:INFO:======================================================================
+01/19/2026 03:06:09 PM:INFO:Test_002_Create_User
+01/19/2026 03:06:09 PM:INFO:Starting_Test_create_new_user
+01/19/2026 03:06:09 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 03:06:09 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 05:35:25 PM:INFO:
+======================================================================
+01/19/2026 05:35:25 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 05:35:25 PM:INFO:======================================================================
+01/19/2026 05:35:25 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 05:35:45 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 05:35:47 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 05:36:05 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 05:36:05 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 05:36:24 PM:INFO:\u2713 Special characters rejected
+01/19/2026 05:36:24 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 05:36:35 PM:INFO:Using correct code: 112233
+01/19/2026 05:36:44 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 05:36:44 PM:INFO:
+======================================================================
+01/19/2026 05:36:44 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 05:36:44 PM:INFO:======================================================================
+01/19/2026 05:36:49 PM:INFO:Test_002_Create_User
+01/19/2026 05:36:49 PM:INFO:Starting_Test_create_new_user
+01/19/2026 05:36:55 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 05:36:55 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 05:38:48 PM:INFO:
+======================================================================
+01/19/2026 05:38:48 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 05:38:48 PM:INFO:======================================================================
+01/19/2026 05:38:48 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 05:39:06 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 05:39:08 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 05:39:27 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 05:39:27 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 05:39:46 PM:INFO:\u2713 Special characters rejected
+01/19/2026 05:39:46 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 05:39:57 PM:INFO:Using correct code: 112233
+01/19/2026 05:40:06 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 05:40:06 PM:INFO:
+======================================================================
+01/19/2026 05:40:06 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 05:40:06 PM:INFO:======================================================================
+01/19/2026 05:40:11 PM:INFO:Test_002_Create_User
+01/19/2026 05:40:11 PM:INFO:Starting_Test_create_new_user
+01/19/2026 05:40:17 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 05:40:17 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:01:03 PM:INFO:
+======================================================================
+01/19/2026 06:01:03 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:01:03 PM:INFO:======================================================================
+01/19/2026 06:01:03 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:01:22 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:01:24 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:01:43 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:01:43 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:02:01 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:02:01 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:02:13 PM:INFO:Using correct code: 112233
+01/19/2026 06:02:22 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:02:22 PM:INFO:
+======================================================================
+01/19/2026 06:02:22 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:02:22 PM:INFO:======================================================================
+01/19/2026 06:02:32 PM:INFO:Test_002_Create_User
+01/19/2026 06:02:32 PM:INFO:Starting_Test_create_new_user
+01/19/2026 06:02:37 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 06:02:37 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:28:42 PM:INFO:
+======================================================================
+01/19/2026 06:28:42 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:28:42 PM:INFO:======================================================================
+01/19/2026 06:28:42 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:29:04 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:29:06 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:29:25 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:29:25 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:29:43 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:29:43 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:29:55 PM:INFO:Using correct code: 112233
+01/19/2026 06:30:04 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:30:04 PM:INFO:
+======================================================================
+01/19/2026 06:30:04 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:30:04 PM:INFO:======================================================================
+01/19/2026 06:30:14 PM:INFO:Test_002_Create_User
+01/19/2026 06:30:14 PM:INFO:Starting_Test_create_new_user
+01/19/2026 06:30:19 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 06:30:19 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:33:29 PM:INFO:
+======================================================================
+01/19/2026 06:33:29 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:33:29 PM:INFO:======================================================================
+01/19/2026 06:33:29 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:33:47 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:33:49 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:34:08 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:34:08 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:34:27 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:34:27 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:34:38 PM:INFO:Using correct code: 112233
+01/19/2026 06:34:47 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:34:47 PM:INFO:
+======================================================================
+01/19/2026 06:34:47 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:34:47 PM:INFO:======================================================================
+01/19/2026 06:34:57 PM:INFO:Test_002_Create_User
+01/19/2026 06:34:57 PM:INFO:Starting_Test_create_new_user
+01/19/2026 06:35:03 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 06:35:03 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:40:06 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/19/2026 06:40:08 PM:INFO:
+======================================================================
+01/19/2026 06:40:08 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:40:08 PM:INFO:======================================================================
+01/19/2026 06:40:08 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:40:27 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:40:29 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:40:47 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:40:47 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:41:06 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:41:06 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:41:17 PM:INFO:Using correct code: 112233
+01/19/2026 06:41:26 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:41:26 PM:INFO:
+======================================================================
+01/19/2026 06:41:26 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:41:26 PM:INFO:======================================================================
+01/19/2026 06:41:36 PM:INFO:Test_002_Create_User
+01/19/2026 06:41:36 PM:INFO:Starting_Test_create_new_user
+01/19/2026 06:41:42 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 06:41:42 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:44:12 PM:INFO:
+======================================================================
+01/19/2026 06:44:12 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:44:12 PM:INFO:======================================================================
+01/19/2026 06:44:12 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:44:32 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:44:34 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:44:52 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:44:52 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:45:11 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:45:11 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:45:22 PM:INFO:Using correct code: 112233
+01/19/2026 06:45:32 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:45:32 PM:INFO:
+======================================================================
+01/19/2026 06:45:32 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:45:32 PM:INFO:======================================================================
+01/19/2026 06:47:34 PM:INFO:
+======================================================================
+01/19/2026 06:47:34 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:47:34 PM:INFO:======================================================================
+01/19/2026 06:47:34 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:47:54 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:47:56 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:48:14 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:48:14 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:48:33 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:48:33 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:48:44 PM:INFO:Using correct code: 112233
+01/19/2026 06:48:54 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:48:54 PM:INFO:
+======================================================================
+01/19/2026 06:48:54 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:48:54 PM:INFO:======================================================================
+01/19/2026 06:49:04 PM:INFO:Test_002_Create_User
+01/19/2026 06:49:04 PM:INFO:Starting_Test_create_new_user
+01/19/2026 06:49:09 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 06:49:09 PM:INFO:Starting_Test_login_new_user_profile
+01/19/2026 06:51:49 PM:INFO:
+======================================================================
+01/19/2026 06:51:49 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 06:51:49 PM:INFO:======================================================================
+01/19/2026 06:51:49 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 06:52:07 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 06:52:09 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 06:52:28 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 06:52:28 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 06:52:46 PM:INFO:\u2713 Special characters rejected
+01/19/2026 06:52:46 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 06:52:57 PM:INFO:Using correct code: 112233
+01/19/2026 06:53:07 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 06:53:07 PM:INFO:
+======================================================================
+01/19/2026 06:53:07 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 06:53:07 PM:INFO:======================================================================
+01/19/2026 07:00:39 PM:INFO:
+======================================================================
+01/19/2026 07:00:39 PM:INFO:VERIFICATION CODE TEST - ALL SCENARIOS
+01/19/2026 07:00:39 PM:INFO:======================================================================
+01/19/2026 07:00:39 PM:INFO:
+[TEST 1] BLANK verification code...
+01/19/2026 07:00:59 PM:INFO:\u26a0 Checking if blank code is rejected...
+01/19/2026 07:01:01 PM:INFO:
+[TEST 2] WRONG verification code (123456)...
+01/19/2026 07:01:20 PM:INFO:\u2713 Wrong code rejected - still on login page
+01/19/2026 07:01:20 PM:INFO:
+[TEST 3] INVALID code with special chars (!@#$%^)...
+01/19/2026 07:01:38 PM:INFO:\u2713 Special characters rejected
+01/19/2026 07:01:38 PM:INFO:
+[TEST 4] CORRECT verification code...
+01/19/2026 07:01:49 PM:INFO:Using correct code: 112233
+01/19/2026 07:01:59 PM:INFO:\u2713 CORRECT code accepted - Login successful!
+01/19/2026 07:01:59 PM:INFO:
+======================================================================
+01/19/2026 07:01:59 PM:INFO:\u2705 ALL SCENARIOS PASSED
+01/19/2026 07:01:59 PM:INFO:======================================================================
+01/19/2026 07:02:09 PM:INFO:Test_002_Create_User
+01/19/2026 07:02:09 PM:INFO:Starting_Test_create_new_user
+01/19/2026 07:02:14 PM:INFO:Test_003_Login_New_User_Profile
+01/19/2026 07:02:14 PM:INFO:Starting_Test_login_new_user_profile
