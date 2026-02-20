@@ -205,7 +205,8 @@ class TestVerificationCode:
         time.sleep(3)
         print("H1122")
 
-        self.driver.find_element(By.XPATH,"// input[ @ name = 'project_name']").send_keys("Seeandsstone")
+        self.driver.find_element(By.XPATH,"// input[ @ name = 'project_name']").send_keys("See"
+                                                                                          "andsstone")
         self.driver.find_element(By.XPATH, "// input[ @ name = 'project_client_name']").send_keys("Ned stark")
         self.driver.find_element(By.XPATH,"//input[@class='w-full relative ps-[80px] bg-Gray_G20 rounded-lg px-4 py-3 border border-grey-200 focus:outline-none mt-2 text-xs lg:text-sm refresh']").send_keys("2200")
         self.driver.find_element(By.XPATH,"//input[@class='w-full relative ps-[60px] rounded-lg px-4 py-3 border border-grey-200 focus:outline-none mt-2 text-xs lg:text-sm refresh']").send_keys("129278")

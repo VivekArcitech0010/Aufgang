@@ -2751,3 +2751,602 @@ Symbols not available. Dumping unresolved backtrace:
 01/19/2026 07:02:09 PM:INFO:Starting_Test_create_new_user
 01/19/2026 07:02:14 PM:INFO:Test_003_Login_New_User_Profile
 01/19/2026 07:02:14 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 12:51:44 PM:INFO:Test_002_Create_User
+01/20/2026 12:51:44 PM:INFO:Starting_Test_create_new_user
+01/20/2026 12:51:49 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 12:51:49 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:09:28 PM:INFO:Test_002_Create_User
+01/20/2026 02:09:28 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:09:34 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:09:34 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:10:34 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002539022D550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40eb21bd6c9edbe4589788f4afc64993
+01/20/2026 02:10:38 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538F81FD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40eb21bd6c9edbe4589788f4afc64993
+01/20/2026 02:10:42 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538D5142D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40eb21bd6c9edbe4589788f4afc64993
+01/20/2026 02:11:47 PM:INFO:Test_002_Create_User
+01/20/2026 02:11:47 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:11:52 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:11:52 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:15:20 PM:INFO:Test_002_Create_User
+01/20/2026 02:15:20 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:15:25 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:15:25 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:19:16 PM:INFO:Test_002_Create_User
+01/20/2026 02:19:16 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:19:21 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:19:21 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:21:29 PM:INFO:Test_002_Create_User
+01/20/2026 02:21:29 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:21:34 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:21:34 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:23:55 PM:INFO:Test_002_Create_User
+01/20/2026 02:23:55 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:24:00 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:24:00 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:29:03 PM:INFO:Test_002_Create_User
+01/20/2026 02:29:03 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:29:08 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:29:08 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:32:35 PM:INFO:Test_002_Create_User
+01/20/2026 02:32:35 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:32:40 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:32:40 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:33:12 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C649B27890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab196fb725dd5e17328c8436b821d93c
+01/20/2026 02:33:16 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C649B279D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab196fb725dd5e17328c8436b821d93c
+01/20/2026 02:33:20 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C649B1B230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ab196fb725dd5e17328c8436b821d93c
+01/20/2026 02:34:14 PM:INFO:Test_002_Create_User
+01/20/2026 02:34:14 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:34:20 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:34:20 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:45:30 PM:INFO:Test_002_Create_User
+01/20/2026 02:45:30 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:45:36 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:45:36 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:47:52 PM:INFO:Test_002_Create_User
+01/20/2026 02:47:52 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:47:57 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:47:57 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:50:33 PM:INFO:Test_002_Create_User
+01/20/2026 02:50:33 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:50:39 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:50:39 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:54:05 PM:INFO:Test_002_Create_User
+01/20/2026 02:54:05 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:54:11 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:54:11 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:56:48 PM:INFO:Test_002_Create_User
+01/20/2026 02:56:48 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:56:48 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:56:48 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 02:59:12 PM:INFO:Test_002_Create_User
+01/20/2026 02:59:12 PM:INFO:Starting_Test_create_new_user
+01/20/2026 02:59:13 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 02:59:13 PM:INFO:Starting_Test_login_new_user_profile
+01/20/2026 03:02:11 PM:INFO:Test_002_Create_User
+01/20/2026 03:02:11 PM:INFO:Starting_Test_create_new_user
+01/20/2026 03:03:13 PM:INFO:Test_003_Login_New_User_Profile
+01/20/2026 03:03:13 PM:INFO:Starting_Test_login_new_user_profile
+01/21/2026 10:36:49 AM:INFO:Test_002_Create_User
+01/21/2026 10:36:49 AM:INFO:Starting_Test_create_new_user
+01/21/2026 10:37:52 AM:INFO:Test_003_Login_New_User_Profile
+01/21/2026 10:37:52 AM:INFO:Starting_Test_login_new_user_profile
+01/21/2026 10:39:19 AM:INFO:Test_002_Create_User
+01/21/2026 10:39:19 AM:INFO:Starting_Test_create_new_user
+01/21/2026 10:40:21 AM:INFO:Test_003_Login_New_User_Profile
+01/21/2026 10:40:21 AM:INFO:Starting_Test_login_new_user_profile
+01/21/2026 10:44:34 AM:INFO:Test_002_Create_User
+01/21/2026 10:44:34 AM:INFO:Starting_Test_create_new_user
+01/21/2026 10:45:37 AM:INFO:Test_003_Login_New_User_Profile
+01/21/2026 10:45:37 AM:INFO:Starting_Test_login_new_user_profile
+01/21/2026 10:47:19 AM:INFO:Test_002_Create_User
+01/21/2026 10:47:19 AM:INFO:Starting_Test_create_new_user
+01/21/2026 10:48:21 AM:INFO:Test_003_Login_New_User_Profile
+01/21/2026 10:48:21 AM:INFO:Starting_Test_login_new_user_profile
+01/22/2026 02:56:59 PM:INFO:Test_002_Create_User
+01/22/2026 02:56:59 PM:INFO:Starting_Test_create_new_user
+01/22/2026 02:58:01 PM:INFO:Test_003_Login_New_User_Profile
+01/22/2026 02:58:01 PM:INFO:Starting_Test_login_new_user_profile
+01/22/2026 04:08:00 PM:INFO:Test_002_Create_User
+01/22/2026 04:08:00 PM:INFO:Starting_Test_create_new_user
+01/22/2026 05:07:47 PM:INFO:Test_002_Create_User
+01/22/2026 05:07:47 PM:INFO:Starting_Test_create_new_user
+01/22/2026 05:08:18 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/22/2026 05:08:58 PM:INFO:Test_002_Create_User
+01/22/2026 05:08:58 PM:INFO:Starting_Test_create_new_user
+01/22/2026 05:10:09 PM:INFO:Test_003_Login_New_User_Profile
+01/22/2026 05:10:09 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 03:06:48 PM:INFO:Test_002_Create_User
+01/27/2026 03:06:48 PM:INFO:Starting_Test_create_new_user
+01/27/2026 03:07:29 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 03:07:29 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 03:09:20 PM:INFO:Test_002_Create_User
+01/27/2026 03:09:20 PM:INFO:Starting_Test_create_new_user
+01/27/2026 03:10:01 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 03:10:01 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 03:15:18 PM:INFO:Test_002_Create_User
+01/27/2026 03:15:18 PM:INFO:Starting_Test_create_new_user
+01/27/2026 03:16:24 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 03:16:24 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 03:47:37 PM:INFO:Test_002_Create_User
+01/27/2026 03:47:37 PM:INFO:Starting_Test_create_new_user
+01/27/2026 03:48:43 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 03:48:43 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 04:32:30 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/27/2026 04:33:08 PM:INFO:Test_002_Create_User
+01/27/2026 04:33:08 PM:INFO:Starting_Test_create_new_user
+01/27/2026 04:33:49 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 04:33:49 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:07:59 PM:INFO:Test_002_Create_User
+01/27/2026 05:07:59 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:08:40 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:08:40 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:22:38 PM:INFO:Test_002_Create_User
+01/27/2026 05:22:38 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:23:20 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:23:20 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:27:05 PM:INFO:Test_002_Create_User
+01/27/2026 05:27:05 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:27:46 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:27:46 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:29:47 PM:INFO:Test_002_Create_User
+01/27/2026 05:29:47 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:30:28 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:30:28 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:32:12 PM:INFO:Test_002_Create_User
+01/27/2026 05:32:12 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:32:53 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:32:53 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:36:12 PM:INFO:Test_002_Create_User
+01/27/2026 05:36:12 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:37:03 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:37:03 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 05:39:40 PM:INFO:Test_002_Create_User
+01/27/2026 05:39:40 PM:INFO:Starting_Test_create_new_user
+01/27/2026 05:41:20 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 05:41:20 PM:INFO:Starting_Test_login_new_user_profile
+01/27/2026 06:24:38 PM:INFO:Test_002_Create_User
+01/27/2026 06:24:38 PM:INFO:Starting_Test_create_new_user
+01/27/2026 06:26:18 PM:INFO:Test_003_Login_New_User_Profile
+01/27/2026 06:26:18 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 10:43:53 AM:INFO:Test_002_Create_User
+01/28/2026 10:43:53 AM:INFO:Starting_Test_create_new_user
+01/28/2026 10:45:43 AM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 10:45:43 AM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 11:05:21 AM:INFO:Test_002_Create_User
+01/28/2026 11:05:21 AM:INFO:Starting_Test_create_new_user
+01/28/2026 11:07:29 AM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 11:07:29 AM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:09:38 PM:INFO:Test_002_Create_User
+01/28/2026 02:09:38 PM:INFO:Starting_Test_create_new_user
+01/28/2026 02:11:27 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 02:11:27 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:13:03 PM:INFO:Test_002_Create_User
+01/28/2026 02:13:03 PM:INFO:Starting_Test_create_new_user
+01/28/2026 02:14:52 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 02:14:52 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:15:51 PM:INFO:Test_002_Create_User
+01/28/2026 02:15:51 PM:INFO:Starting_Test_create_new_user
+01/28/2026 02:17:40 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 02:17:40 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:19:58 PM:INFO:Test_002_Create_User
+01/28/2026 02:19:58 PM:INFO:Starting_Test_create_new_user
+01/28/2026 02:21:46 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 02:21:46 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:34:24 PM:INFO:Test_002_Create_User
+01/28/2026 02:34:24 PM:INFO:Starting_Test_create_new_user
+01/28/2026 02:36:12 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 02:36:12 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 02:59:12 PM:INFO:Test_002_Create_User
+01/28/2026 02:59:12 PM:INFO:Starting_Test_create_new_user
+01/28/2026 03:01:00 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 03:01:00 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 03:05:24 PM:INFO:Test_002_Create_User
+01/28/2026 03:05:24 PM:INFO:Starting_Test_create_new_user
+01/28/2026 03:07:25 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 03:07:25 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 03:12:47 PM:INFO:Test_002_Create_User
+01/28/2026 03:12:47 PM:INFO:Starting_Test_create_new_user
+01/28/2026 03:14:55 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 03:14:55 PM:INFO:Starting_Test_login_new_user_profile
+01/28/2026 03:39:29 PM:INFO:Test_002_Create_User
+01/28/2026 03:39:29 PM:INFO:Starting_Test_create_new_user
+01/28/2026 03:41:37 PM:INFO:Test_003_Login_New_User_Profile
+01/28/2026 03:41:37 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 10:59:10 AM:INFO:Test_002_Create_User
+01/29/2026 10:59:10 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:01:20 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:01:20 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 11:03:07 AM:INFO:Test_002_Create_User
+01/29/2026 11:03:07 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:05:22 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:05:22 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 11:05:59 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B14AA07890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f9fb15b14e9375b2c4c373453aba5a25
+01/29/2026 11:06:03 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B14AA06D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f9fb15b14e9375b2c4c373453aba5a25
+01/29/2026 11:06:08 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B14A9FB820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f9fb15b14e9375b2c4c373453aba5a25
+01/29/2026 11:10:55 AM:INFO:Test_002_Create_User
+01/29/2026 11:10:55 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:13:10 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:13:10 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 11:17:07 AM:INFO:Test_002_Create_User
+01/29/2026 11:17:07 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:19:22 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:19:22 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 11:19:38 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000297AED8FC50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/972b8fa0ca69815ff1d1059514fdfffa
+01/29/2026 11:19:42 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000297AED8FD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/972b8fa0ca69815ff1d1059514fdfffa
+01/29/2026 11:19:46 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000297AC9AB230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/972b8fa0ca69815ff1d1059514fdfffa
+01/29/2026 11:20:34 AM:INFO:Test_002_Create_User
+01/29/2026 11:20:34 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:22:49 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:22:49 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 11:24:42 AM:INFO:Test_002_Create_User
+01/29/2026 11:24:42 AM:INFO:Starting_Test_create_new_user
+01/29/2026 11:26:57 AM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 11:26:57 AM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 12:36:24 PM:INFO:Test_002_Create_User
+01/29/2026 12:36:24 PM:INFO:Starting_Test_create_new_user
+01/29/2026 12:38:38 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 12:38:38 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 12:47:32 PM:INFO:Test_002_Create_User
+01/29/2026 12:47:32 PM:INFO:Starting_Test_create_new_user
+01/29/2026 12:49:47 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 12:49:47 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 12:52:21 PM:INFO:Test_002_Create_User
+01/29/2026 12:52:21 PM:INFO:Starting_Test_create_new_user
+01/29/2026 12:54:43 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 12:54:43 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 01:00:10 PM:INFO:Test_002_Create_User
+01/29/2026 01:00:10 PM:INFO:Starting_Test_create_new_user
+01/29/2026 01:01:39 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 01:01:39 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 01:02:11 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000257DBE46D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/733d6dfbb1976e22c299a040340ee783
+01/29/2026 01:02:15 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000257DBE44410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/733d6dfbb1976e22c299a040340ee783
+01/29/2026 01:02:19 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000257DBD8A8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/733d6dfbb1976e22c299a040340ee783
+01/29/2026 01:03:19 PM:INFO:Test_002_Create_User
+01/29/2026 01:03:19 PM:INFO:Starting_Test_create_new_user
+01/29/2026 01:04:48 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 01:04:48 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 01:09:25 PM:INFO:Test_002_Create_User
+01/29/2026 01:09:25 PM:INFO:Starting_Test_create_new_user
+01/29/2026 01:11:04 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 01:11:04 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:01:36 PM:INFO:Test_002_Create_User
+01/29/2026 02:01:36 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:03:26 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:03:26 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:05:17 PM:INFO:Test_002_Create_User
+01/29/2026 02:05:17 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:06:58 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:06:58 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:09:21 PM:INFO:Test_002_Create_User
+01/29/2026 02:09:21 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:11:14 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:11:14 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:12:02 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C42614410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/caa9ae835d7fe3ba0946716d76a50061
+01/29/2026 02:12:06 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C42614050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/caa9ae835d7fe3ba0946716d76a50061
+01/29/2026 02:12:10 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022C4255B6F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/caa9ae835d7fe3ba0946716d76a50061
+01/29/2026 02:13:51 PM:INFO:Test_002_Create_User
+01/29/2026 02:13:51 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:16:06 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:16:06 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:16:10 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CE6A0042D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe7dddbd30467f16d5124f41e3891cd/url
+01/29/2026 02:16:14 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CE69F57750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe7dddbd30467f16d5124f41e3891cd/url
+01/29/2026 02:16:18 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CE69F4AEA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe7dddbd30467f16d5124f41e3891cd/url
+01/29/2026 02:16:26 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CE6CCED250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe7dddbd30467f16d5124f41e3891cd
+01/29/2026 02:18:38 PM:INFO:Test_002_Create_User
+01/29/2026 02:18:38 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:20:55 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:20:55 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 02:49:06 PM:INFO:Test_002_Create_User
+01/29/2026 02:49:06 PM:INFO:Starting_Test_create_new_user
+01/29/2026 02:51:25 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 02:51:25 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 03:20:43 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/29/2026 03:21:32 PM:INFO:Test_002_Create_User
+01/29/2026 03:21:32 PM:INFO:Starting_Test_create_new_user
+01/29/2026 03:23:50 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 03:23:50 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 03:24:43 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019093657C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e053523a59f3e03d9bc9a7d05bf7653
+01/29/2026 03:24:47 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019093657890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e053523a59f3e03d9bc9a7d05bf7653
+01/29/2026 03:24:51 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001909364A8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e053523a59f3e03d9bc9a7d05bf7653
+01/29/2026 03:29:37 PM:INFO:Test_002_Create_User
+01/29/2026 03:29:37 PM:INFO:Starting_Test_create_new_user
+01/29/2026 03:31:54 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 03:31:54 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 03:38:34 PM:INFO:Test_002_Create_User
+01/29/2026 03:38:34 PM:INFO:Starting_Test_create_new_user
+01/29/2026 03:40:51 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 03:40:51 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 03:43:15 PM:INFO:Test_002_Create_User
+01/29/2026 03:43:15 PM:INFO:Starting_Test_create_new_user
+01/29/2026 03:45:32 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 03:45:32 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 04:28:28 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/29/2026 04:29:12 PM:INFO:Test_002_Create_User
+01/29/2026 04:29:12 PM:INFO:Starting_Test_create_new_user
+01/29/2026 04:31:30 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 04:31:30 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 04:33:12 PM:INFO:Test_002_Create_User
+01/29/2026 04:33:12 PM:INFO:Starting_Test_create_new_user
+01/29/2026 04:35:51 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 04:35:51 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 05:15:56 PM:INFO:Test_002_Create_User
+01/29/2026 05:15:56 PM:INFO:Starting_Test_create_new_user
+01/29/2026 05:18:36 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 05:18:36 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 05:38:53 PM:INFO:Test_002_Create_User
+01/29/2026 05:38:53 PM:INFO:Starting_Test_create_new_user
+01/29/2026 05:41:19 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 05:41:19 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 05:44:17 PM:INFO:Test_002_Create_User
+01/29/2026 05:44:17 PM:INFO:Starting_Test_create_new_user
+01/29/2026 05:47:05 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 05:47:05 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 05:47:09 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB40F84550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3/url
+01/29/2026 05:47:14 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB40ED7750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3/url
+01/29/2026 05:47:18 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB40ECAEA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3/url
+01/29/2026 05:47:26 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB43C2D7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3
+01/29/2026 05:47:30 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB43B97DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3
+01/29/2026 05:47:34 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB44008380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2184f3c18cff9436559c5dbabafbddc3
+01/29/2026 05:51:33 PM:INFO:Test_002_Create_User
+01/29/2026 05:51:33 PM:INFO:Starting_Test_create_new_user
+01/29/2026 05:54:34 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 05:54:34 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 06:03:46 PM:INFO:Test_002_Create_User
+01/29/2026 06:03:46 PM:INFO:Starting_Test_create_new_user
+01/29/2026 06:06:37 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 06:06:37 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 06:23:09 PM:INFO:Test_002_Create_User
+01/29/2026 06:23:09 PM:INFO:Starting_Test_create_new_user
+01/29/2026 06:26:06 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 06:26:06 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 06:26:41 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F18054410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/576ba0e0331f79a06eae0d8f15bfdd8b
+01/29/2026 06:26:45 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F18054050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/576ba0e0331f79a06eae0d8f15bfdd8b
+01/29/2026 06:26:49 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027F17F9B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/576ba0e0331f79a06eae0d8f15bfdd8b
+01/29/2026 06:39:05 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/29/2026 06:39:51 PM:INFO:Test_002_Create_User
+01/29/2026 06:39:51 PM:INFO:Starting_Test_create_new_user
+01/29/2026 06:42:49 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 06:42:49 PM:INFO:Starting_Test_login_new_user_profile
+01/29/2026 06:48:24 PM:INFO:Test_002_Create_User
+01/29/2026 06:48:24 PM:INFO:Starting_Test_create_new_user
+01/29/2026 06:51:35 PM:INFO:Test_003_Login_New_User_Profile
+01/29/2026 06:51:35 PM:INFO:Starting_Test_login_new_user_profile
+01/30/2026 11:10:25 AM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/30/2026 11:11:16 AM:INFO:Test_002_Create_User
+01/30/2026 11:11:16 AM:INFO:Starting_Test_create_new_user
+01/30/2026 11:12:57 AM:INFO:Test_002_Create_User
+01/30/2026 11:12:57 AM:INFO:Starting_Test_create_new_user
+01/30/2026 11:39:40 AM:INFO:Test_002_Create_User
+01/30/2026 11:39:40 AM:INFO:Starting_Test_create_new_user
+01/30/2026 11:53:44 AM:INFO:Test_002_Create_User
+01/30/2026 11:53:44 AM:INFO:Starting_Test_create_new_user
+01/30/2026 12:01:20 PM:INFO:Test_002_Create_User
+01/30/2026 12:01:20 PM:INFO:Starting_Test_create_new_user
+01/30/2026 12:06:09 PM:INFO:Test_002_Create_User
+01/30/2026 12:06:09 PM:INFO:Starting_Test_create_new_user
+01/30/2026 12:22:55 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/30/2026 12:23:42 PM:INFO:Test_002_Create_User
+01/30/2026 12:23:42 PM:INFO:Starting_Test_create_new_user
+01/30/2026 12:35:18 PM:INFO:Test_002_Create_User
+01/30/2026 12:35:18 PM:INFO:Starting_Test_create_new_user
+01/30/2026 12:55:45 PM:INFO:Test_002_Create_User
+01/30/2026 12:55:45 PM:INFO:Starting_Test_create_new_user
+01/30/2026 01:01:43 PM:INFO:Test_002_Create_User
+01/30/2026 01:01:43 PM:INFO:Starting_Test_create_new_user
+01/30/2026 02:15:30 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/30/2026 02:16:18 PM:INFO:Test_002_Create_User
+01/30/2026 02:16:18 PM:INFO:Starting_Test_create_new_user
+01/30/2026 02:22:37 PM:INFO:Test_002_Create_User
+01/30/2026 02:22:37 PM:INFO:Starting_Test_create_new_user
+01/30/2026 03:41:59 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+01/30/2026 03:42:14 PM:INFO:Test_002_Create_User
+01/30/2026 03:42:14 PM:INFO:Starting_Test_create_new_user
+01/30/2026 03:43:18 PM:INFO:Test_002_Create_User
+01/30/2026 03:43:18 PM:INFO:Starting_Test_create_new_user
+01/30/2026 03:52:15 PM:INFO:Test_002_Create_User
+01/30/2026 03:52:15 PM:INFO:Starting_Test_create_new_user
+01/30/2026 03:54:55 PM:INFO:Test_002_Create_User
+01/30/2026 03:54:55 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:01:50 PM:INFO:Test_002_Create_User
+01/30/2026 04:01:50 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:06:56 PM:INFO:Test_002_Create_User
+01/30/2026 04:06:56 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:11:48 PM:INFO:Test_002_Create_User
+01/30/2026 04:11:48 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:13:34 PM:INFO:Test_002_Create_User
+01/30/2026 04:13:34 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:20:43 PM:INFO:Test_002_Create_User
+01/30/2026 04:20:43 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:31:40 PM:INFO:Test_002_Create_User
+01/30/2026 04:31:40 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:38:23 PM:INFO:Test_002_Create_User
+01/30/2026 04:38:23 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:55:21 PM:INFO:Test_002_Create_User
+01/30/2026 04:55:21 PM:INFO:Starting_Test_create_new_user
+01/30/2026 04:59:09 PM:INFO:Test_003_Login_New_User_Profile
+01/30/2026 04:59:09 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 12:34:51 PM:INFO:Test_002_Create_User
+02/03/2026 12:34:51 PM:INFO:Starting_Test_create_new_user
+02/03/2026 12:37:37 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 12:37:37 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 12:49:27 PM:INFO:Test_002_Create_User
+02/03/2026 12:49:27 PM:INFO:Starting_Test_create_new_user
+02/03/2026 12:53:15 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 12:53:15 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 12:59:16 PM:INFO:Test_002_Create_User
+02/03/2026 12:59:16 PM:INFO:Starting_Test_create_new_user
+02/03/2026 01:03:04 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 01:03:04 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 02:03:55 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+02/03/2026 02:04:39 PM:INFO:Test_002_Create_User
+02/03/2026 02:04:39 PM:INFO:Starting_Test_create_new_user
+02/03/2026 02:08:26 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 02:08:26 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 02:40:20 PM:INFO:Test_002_Create_User
+02/03/2026 02:40:20 PM:INFO:Starting_Test_create_new_user
+02/03/2026 02:44:10 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 02:44:10 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 03:13:45 PM:INFO:Test_002_Create_User
+02/03/2026 03:13:45 PM:INFO:Starting_Test_create_new_user
+02/03/2026 03:17:33 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 03:17:33 PM:INFO:Starting_Test_login_new_user_profile
+02/03/2026 03:26:15 PM:INFO:Test_002_Create_User
+02/03/2026 03:26:15 PM:INFO:Starting_Test_create_new_user
+02/03/2026 03:30:03 PM:INFO:Test_003_Login_New_User_Profile
+02/03/2026 03:30:03 PM:INFO:Starting_Test_login_new_user_profile
+02/04/2026 02:42:27 PM:INFO:Test_002_Create_User
+02/04/2026 02:42:27 PM:INFO:Starting_Test_create_new_user
+02/04/2026 02:42:36 PM:INFO:Test_003_Login_New_User_Profile
+02/04/2026 02:42:36 PM:INFO:Starting_Test_login_new_user_profile
+02/04/2026 02:46:36 PM:INFO:Test_002_Create_User
+02/04/2026 02:46:36 PM:INFO:Starting_Test_create_new_user
+02/04/2026 02:50:26 PM:INFO:Test_003_Login_New_User_Profile
+02/04/2026 02:50:26 PM:INFO:Starting_Test_login_new_user_profile
+02/04/2026 03:20:56 PM:INFO:Test_002_Create_User
+02/04/2026 03:20:56 PM:INFO:Starting_Test_create_new_user
+02/04/2026 03:24:44 PM:INFO:Test_003_Login_New_User_Profile
+02/04/2026 03:24:44 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 12:41:37 PM:INFO:Test_002_Create_User
+02/09/2026 12:41:37 PM:INFO:Starting_Test_create_new_user
+02/09/2026 12:44:50 PM:INFO:Test_001_Login.test_verify_page_title
+02/09/2026 12:44:50 PM:INFO:Starting test_verify_page_title
+02/09/2026 12:45:02 PM:INFO:Test_001_Login.test_login
+02/09/2026 12:45:02 PM:INFO:Starting test_login
+02/09/2026 02:12:30 PM:INFO:Test_001_Login.test_login
+02/09/2026 02:12:30 PM:INFO:Starting test_login
+02/09/2026 02:13:45 PM:INFO:Test_002_Create_User
+02/09/2026 02:13:45 PM:INFO:Starting_Test_create_new_user
+02/09/2026 02:17:43 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:17:43 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 02:33:55 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:33:55 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 02:34:09 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158BC0A5810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aec221c4e9b134cb2454385d069a7a3f
+02/09/2026 02:34:13 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158BC0A5BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aec221c4e9b134cb2454385d069a7a3f
+02/09/2026 02:34:17 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158BBFF3490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aec221c4e9b134cb2454385d069a7a3f
+02/09/2026 02:34:29 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:34:29 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 02:34:43 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:34:43 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 02:36:45 PM:INFO:Test_002_Create_User
+02/09/2026 02:36:45 PM:INFO:Starting_Test_create_new_user
+02/09/2026 02:37:09 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:37:09 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 02:39:12 PM:INFO:Test_002_Create_User
+02/09/2026 02:39:12 PM:INFO:Starting_Test_create_new_user
+02/09/2026 02:43:16 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 02:43:16 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 03:24:50 PM:INFO:Test_002_Create_User
+02/09/2026 03:24:50 PM:INFO:Starting_Test_create_new_user
+02/09/2026 03:28:46 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 03:28:46 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 03:58:32 PM:INFO:Test_002_Create_User
+02/09/2026 03:58:32 PM:INFO:Starting_Test_create_new_user
+02/09/2026 04:02:26 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 04:02:26 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 04:11:20 PM:INFO:Test_002_Create_User
+02/09/2026 04:11:20 PM:INFO:Starting_Test_create_new_user
+02/09/2026 04:15:14 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 04:15:14 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 04:22:33 PM:INFO:Test_002_Create_User
+02/09/2026 04:22:33 PM:INFO:Starting_Test_create_new_user
+02/09/2026 04:26:29 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 04:26:29 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 04:26:33 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C10E5590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/url
+02/09/2026 04:26:37 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C10E5950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/url
+02/09/2026 04:26:41 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C10336F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/url
+02/09/2026 04:26:51 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C107F530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/element
+02/09/2026 04:26:55 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C10ABCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/element
+02/09/2026 04:26:59 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C14E4270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205/element
+02/09/2026 04:27:08 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C14E4D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205
+02/09/2026 04:27:12 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C14E5260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205
+02/09/2026 04:27:16 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D5C14E56A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fb323e6afc52753631438a9792000205
+02/09/2026 05:06:36 PM:INFO:Test_002_Create_User
+02/09/2026 05:06:36 PM:INFO:Starting_Test_create_new_user
+02/09/2026 05:10:38 PM:INFO:Test_003_Login_New_User_Profile
+02/09/2026 05:10:38 PM:INFO:Starting_Test_login_new_user_profile
+02/09/2026 05:10:42 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B67B5590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/url
+02/09/2026 05:10:46 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B67B5950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/url
+02/09/2026 05:10:50 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B67036F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/url
+02/09/2026 05:10:59 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B674F530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/element
+02/09/2026 05:11:03 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B677BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/element
+02/09/2026 05:11:07 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B6BF4270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7/element
+02/09/2026 05:11:16 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B6BF4D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7
+02/09/2026 05:11:20 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B6BF5260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7
+02/09/2026 05:11:24 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210B6BF56A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd3799ce8c6d76160033a39171fa7ad7
+02/10/2026 04:21:48 PM:INFO:Test_002_Create_User
+02/10/2026 04:21:48 PM:INFO:Starting_Test_create_new_user
+02/10/2026 05:18:40 PM:INFO:Test_002_Create_User
+02/10/2026 05:18:40 PM:INFO:Starting_Test_create_new_user
+02/17/2026 03:37:39 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+02/18/2026 12:50:24 PM:INFO:Test_002_Create_User
+02/18/2026 12:50:24 PM:INFO:Starting_Test_create_new_user
+02/18/2026 01:07:03 PM:INFO:Test_002_Create_User
+02/18/2026 01:07:03 PM:INFO:Starting_Test_create_new_user
+02/18/2026 03:05:16 PM:INFO:Test_002_Create_User
+02/18/2026 03:05:16 PM:INFO:Starting_Test_create_new_user
+02/18/2026 03:09:15 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E733D9810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52/element
+02/18/2026 03:09:19 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E733D9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52/element
+02/18/2026 03:09:23 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E73316FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52/element
+02/18/2026 03:09:32 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E7336FBF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52
+02/18/2026 03:09:36 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E7339FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52
+02/18/2026 03:09:40 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E73810380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4dc7397535b7f456d8e7a48f5c4fab52
+02/20/2026 11:35:20 AM:INFO:Test_002_Create_User
+02/20/2026 11:35:20 AM:INFO:Starting_Test_create_new_user
+02/20/2026 11:39:19 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B9175810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572/element
+02/20/2026 11:39:23 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B9175D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572/element
+02/20/2026 11:39:27 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B90B6FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572/element
+02/20/2026 11:39:35 AM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B910FBF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572
+02/20/2026 11:39:39 AM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B913FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572
+02/20/2026 11:39:43 AM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D3B95B0380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8ed4d0a146cdb4bd8f996e7d401d572
+02/20/2026 12:19:31 PM:INFO:Test_002_Create_User
+02/20/2026 12:19:31 PM:INFO:Starting_Test_create_new_user
+02/20/2026 12:23:29 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA48644F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d/element
+02/20/2026 12:23:34 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA486456D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d/element
+02/20/2026 12:23:38 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA48592FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d/element
+02/20/2026 12:23:47 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA485DF530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d
+02/20/2026 12:23:51 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA4860B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d
+02/20/2026 12:23:55 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA4860BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b469d93892c1564dd51969dc1d099d6d
+02/20/2026 12:28:12 PM:INFO:Test_002_Create_User
+02/20/2026 12:28:12 PM:INFO:Starting_Test_create_new_user
+02/20/2026 12:32:10 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341F54F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6/element
+02/20/2026 12:32:14 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341F556D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6/element
+02/20/2026 12:32:18 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341EA2FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6/element
+02/20/2026 12:32:28 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341EEF530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6
+02/20/2026 12:32:32 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341F1F790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6
+02/20/2026 12:32:36 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025341F1FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/26d638eec410cf3d6347eda97fd4ebe6
+02/20/2026 12:48:55 PM:INFO:Test_002_Create_User
+02/20/2026 12:48:55 PM:INFO:Starting_Test_create_new_user
+02/20/2026 12:52:54 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECEBEAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11/element
+02/20/2026 12:52:58 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECEBEC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11/element
+02/20/2026 12:53:03 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECE2B100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11/element
+02/20/2026 12:53:12 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECF39250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11
+02/20/2026 12:53:16 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECF2F350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11
+02/20/2026 12:53:20 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B0ECF2F8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdce05bca9601090a4c691328dfeef11
+02/20/2026 12:54:39 PM:INFO:Test_002_Create_User
+02/20/2026 12:54:39 PM:INFO:Starting_Test_create_new_user
+02/20/2026 12:58:38 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CD54F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97/element
+02/20/2026 12:58:42 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CD556D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97/element
+02/20/2026 12:58:46 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CCA2FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97/element
+02/20/2026 12:58:55 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CCEF530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97
+02/20/2026 12:58:59 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CD1B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97
+02/20/2026 12:59:03 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002049CD1BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc8c63ef42c7db6f64b554a3af32cd97
+02/20/2026 01:02:08 PM:INFO:Test_002_Create_User
+02/20/2026 01:02:08 PM:INFO:Starting_Test_create_new_user
+02/20/2026 01:06:07 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC25451D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb/element
+02/20/2026 01:06:11 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC2545950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb/element
+02/20/2026 01:06:15 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC2493100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb/element
+02/20/2026 01:06:24 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC24DF530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb
+02/20/2026 01:06:28 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC250B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb
+02/20/2026 01:06:32 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014CC250BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/76b233265230073e7709b7d0aab291eb
+02/20/2026 02:13:00 PM:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+02/20/2026 02:13:45 PM:INFO:Test_002_Create_User
+02/20/2026 02:13:45 PM:INFO:Starting_Test_create_new_user
+02/20/2026 02:17:44 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4951551D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248/element
+02/20/2026 02:17:48 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D495155810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248/element
+02/20/2026 02:17:52 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4950A3360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248/element
+02/20/2026 02:18:01 PM:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D4950EF530>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248
+02/20/2026 02:18:05 PM:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D49511F9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248
+02/20/2026 02:18:09 PM:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D49511FF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cba9094d411b0f72dc182e73f5726248
+02/20/2026 02:23:43 PM:INFO:Test_002_Create_User
+02/20/2026 02:23:43 PM:INFO:Starting_Test_create_new_user
+02/20/2026 02:47:38 PM:INFO:Test_002_Create_User
+02/20/2026 02:47:38 PM:INFO:Starting_Test_create_new_user
